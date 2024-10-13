@@ -1,0 +1,601 @@
+user_id,product_id,rating,timestamp,product_name,category,brand,price,product_rating,num_of_rating
+U5,P26,3,23-10-2023 16:35,Acer Aspire 5 Desktop,Printers,Logitech,29.99,3.7,356
+U21,P192,4,30-10-2023 21:01,Acer Aspire 5 Desktop,Printers,Acer,199.99,3.6,356
+U3,P40,1,15-10-2023 18:19,Acer Aspire 5 Desktop,Accessories,Epson,179.99,4.2,356
+U11,P40,2,11-10-2023 15:30,Acer Aspire 5 Desktop,Accessories,Epson,179.99,4.2,356
+U32,P40,5,03-10-2023 13:51,Acer Aspire 5 Desktop,Accessories,Epson,179.99,4.2,356
+U31,P192,4,01-10-2023 11:28,Acer Aspire 5 Desktop,Printers,Acer,199.99,3.6,356
+U17,P192,1,12-10-2023 13:54,Acer Aspire 5 Desktop,Printers,Acer,199.99,3.6,356
+U14,P192,2,23-10-2023 14:18,Acer Aspire 5 Desktop,Printers,Acer,199.99,3.6,356
+U12,P192,3,06-10-2023 22:47,Acer Aspire 5 Desktop,Printers,Acer,199.99,3.6,356
+U24,P192,5,12-10-2023 20:51,Acer Aspire 5 Desktop,Printers,Acer,199.99,3.6,356
+U33,P192,2,28-10-2023 18:28,Acer Aspire 5 Desktop,Printers,Acer,199.99,3.6,356
+U48,P192,3,04-10-2023 19:44,Acer Aspire 5 Desktop,Printers,Acer,199.99,3.6,356
+U38,P192,4,03-10-2023 21:49,Acer Aspire 5 Desktop,Printers,Acer,199.99,3.6,356
+U16,P192,5,25-10-2023 11:50,Acer Aspire 5 Desktop,Printers,Acer,199.99,3.6,356
+U36,P192,2,16-10-2023 18:52,Acer Aspire 5 Desktop,Printers,Acer,199.99,3.6,356
+U13,P192,5,17-10-2023 13:35,Acer Aspire 5 Desktop,Printers,Acer,199.99,3.6,356
+U4,P192,3,09-10-2023 20:23,Acer Aspire 5 Desktop,Printers,Acer,199.99,3.6,356
+U19,P192,4,09-10-2023 19:57,Acer Aspire 5 Desktop,Printers,Acer,199.99,3.6,356
+U10,P192,3,25-10-2023 15:27,Acer Aspire 5 Desktop,Printers,Acer,199.99,3.6,356
+U40,P40,1,20-10-2023 19:04,Acer Aspire 5 Desktop,Accessories,Epson,179.99,4.2,356
+U30,P40,3,18-10-2023 15:57,Acer Aspire 5 Desktop,Accessories,Epson,179.99,4.2,356
+U35,P40,4,28-10-2023 13:04,Acer Aspire 5 Desktop,Accessories,Epson,179.99,4.2,356
+U7,P199,5,09-10-2023 21:06,Acer Aspire 5 Desktop,Printers,Acer,179.99,5.0,356
+U25,P199,3,31-10-2023 15:55,Acer Aspire 5 Desktop,Printers,Acer,179.99,5.0,356
+U6,P199,2,13-10-2023 12:03,Acer Aspire 5 Desktop,Printers,Acer,179.99,5.0,356
+U2,P199,2,21-10-2023 14:09,Acer Aspire 5 Desktop,Printers,Acer,179.99,5.0,356
+U42,P199,4,13-10-2023 13:09,Acer Aspire 5 Desktop,Printers,Acer,179.99,5.0,356
+U9,P40,1,06-10-2023 16:37,Acer Aspire 5 Desktop,Accessories,Epson,179.99,4.2,356
+U29,P40,5,03-10-2023 22:57,Acer Aspire 5 Desktop,Accessories,Epson,179.99,4.2,356
+U20,P40,1,01-10-2023 12:18,Acer Aspire 5 Desktop,Accessories,Epson,179.99,4.2,356
+U26,P40,4,21-10-2023 14:51,Acer Aspire 5 Desktop,Accessories,Epson,179.99,4.2,356
+U18,P192,5,17-10-2023 10:39,Acer Aspire 5 Desktop,Printers,Acer,199.99,3.6,356
+U44,P26,5,08-10-2023 20:48,Acer Aspire 5 Desktop,Printers,Logitech,29.99,3.7,356
+U39,P177,4,24-10-2023 18:55,Acer Aspire 5 Desktop,Desktops,Samsung,199.99,3.2,356
+U41,P177,5,31-10-2023 22:19,Acer Aspire 5 Desktop,Desktops,Samsung,199.99,3.2,356
+U47,P177,2,06-10-2023 17:30,Acer Aspire 5 Desktop,Desktops,Samsung,199.99,3.2,356
+U15,P177,5,31-10-2023 10:35,Acer Aspire 5 Desktop,Desktops,Samsung,199.99,3.2,356
+U1,P177,3,30-10-2023 13:55,Acer Aspire 5 Desktop,Desktops,Samsung,199.99,3.2,356
+U28,P93,4,17-10-2023 13:04,Acer Aspire 5 Desktop,Laptops,Lenovo,150.0,4.6,356
+U37,P93,1,26-10-2023 16:56,Acer Aspire 5 Desktop,Laptops,Lenovo,150.0,4.6,356
+U23,P192,2,13-10-2023 16:36,Acer Aspire 5 Desktop,Printers,Acer,199.99,3.6,356
+U34,P93,2,26-10-2023 12:55,Acer Aspire 5 Desktop,Laptops,Lenovo,150.0,4.6,356
+U50,P33,2,09-10-2023 20:13,Acer Aspire 5 Desktop,Printers,Epson,29.99,4.1,356
+U27,P118,4,26-10-2023 15:40,Acer Aspire 5 Desktop,Printers,Dell,599.99,4.3,356
+U43,P73,2,03-10-2023 17:13,Acer Aspire 5 Desktop,Laptops,Samsung,199.99,4.8,356
+U45,P118,3,08-10-2023 19:26,Acer Aspire 5 Desktop,Printers,Dell,599.99,4.3,356
+U46,P67,3,07-10-2023 13:18,Acer Aspire 5 Desktop,Printers,Logitech,549.99,3.5,356
+U49,P69,3,07-10-2023 10:19,Acer Aspire 5 Desktop,Desktops,Acer,199.99,3.6,356
+U8,P69,2,25-10-2023 17:27,Acer Aspire 5 Desktop,Desktops,Acer,199.99,3.6,356
+U22,P39,3,19-10-2023 15:20,Acer Aspire 5 Desktop,Laptops,Acer,29.99,4.7,356
+U35,P113,5,02-10-2023 13:37,Canon PIXMA TS3320,Accessories,Samsung,549.99,4.0,246
+U46,P112,1,04-10-2023 22:14,Canon PIXMA TS3320,Laptops,Lenovo,199.0,3.5,246
+U22,P112,3,03-10-2023 15:12,Canon PIXMA TS3320,Laptops,Lenovo,199.0,3.5,246
+U3,P112,1,15-10-2023 13:13,Canon PIXMA TS3320,Laptops,Lenovo,199.0,3.5,246
+U9,P38,5,14-10-2023 21:28,Canon PIXMA TS3320,Accessories,HP,199.99,4.2,246
+U27,P38,3,26-10-2023 22:19,Canon PIXMA TS3320,Accessories,HP,199.99,4.2,246
+U13,P38,1,18-10-2023 20:20,Canon PIXMA TS3320,Accessories,HP,199.99,4.2,246
+U8,P38,4,04-10-2023 15:52,Canon PIXMA TS3320,Accessories,HP,199.99,4.2,246
+U48,P38,3,28-10-2023 11:36,Canon PIXMA TS3320,Accessories,HP,199.99,4.2,246
+U4,P38,3,29-10-2023 16:01,Canon PIXMA TS3320,Accessories,HP,199.99,4.2,246
+U32,P38,3,05-10-2023 19:27,Canon PIXMA TS3320,Accessories,HP,199.99,4.2,246
+U49,P38,3,02-10-2023 14:10,Canon PIXMA TS3320,Accessories,HP,199.99,4.2,246
+U31,P38,2,05-10-2023 17:02,Canon PIXMA TS3320,Accessories,HP,199.99,4.2,246
+U25,P38,4,10-10-2023 14:08,Canon PIXMA TS3320,Accessories,HP,199.99,4.2,246
+U38,P38,3,07-10-2023 16:48,Canon PIXMA TS3320,Accessories,HP,199.99,4.2,246
+U29,P38,2,01-10-2023 10:01,Canon PIXMA TS3320,Accessories,HP,199.99,4.2,246
+U37,P38,2,05-10-2023 14:04,Canon PIXMA TS3320,Accessories,HP,199.99,4.2,246
+U34,P38,1,08-10-2023 13:11,Canon PIXMA TS3320,Accessories,HP,199.99,4.2,246
+U1,P38,1,18-10-2023 11:16,Canon PIXMA TS3320,Accessories,HP,199.99,4.2,246
+U5,P38,3,08-10-2023 17:17,Canon PIXMA TS3320,Accessories,HP,199.99,4.2,246
+U26,P38,3,14-10-2023 23:08,Canon PIXMA TS3320,Accessories,HP,199.99,4.2,246
+U50,P58,1,23-10-2023 17:23,Canon PIXMA TS3320,Desktops,Lenovo,749.99,4.5,246
+U17,P112,4,09-10-2023 20:23,Canon PIXMA TS3320,Laptops,Lenovo,199.0,3.5,246
+U2,P45,1,04-10-2023 15:12,Canon PIXMA TS3320,Accessories,Logitech,199.0,3.2,246
+U43,P45,3,06-10-2023 11:31,Canon PIXMA TS3320,Accessories,Logitech,199.0,3.2,246
+U42,P35,5,05-10-2023 23:32,Canon PIXMA TS3320,Desktops,Canon,799.99,3.8,246
+U33,P35,5,12-10-2023 15:12,Canon PIXMA TS3320,Desktops,Canon,799.99,3.8,246
+U39,P35,1,04-10-2023 14:49,Canon PIXMA TS3320,Desktops,Canon,799.99,3.8,246
+U28,P35,2,28-10-2023 18:57,Canon PIXMA TS3320,Desktops,Canon,799.99,3.8,246
+U21,P35,5,25-10-2023 12:02,Canon PIXMA TS3320,Desktops,Canon,799.99,3.8,246
+U15,P35,2,18-10-2023 13:20,Canon PIXMA TS3320,Desktops,Canon,799.99,3.8,246
+U16,P35,3,28-10-2023 22:53,Canon PIXMA TS3320,Desktops,Canon,799.99,3.8,246
+U19,P35,4,14-10-2023 11:02,Canon PIXMA TS3320,Desktops,Canon,799.99,3.8,246
+U6,P35,3,23-10-2023 14:21,Canon PIXMA TS3320,Desktops,Canon,799.99,3.8,246
+U18,P112,3,02-10-2023 11:01,Canon PIXMA TS3320,Laptops,Lenovo,199.0,3.5,246
+U41,P112,4,04-10-2023 17:12,Canon PIXMA TS3320,Laptops,Lenovo,199.0,3.5,246
+U47,P58,1,06-10-2023 14:12,Canon PIXMA TS3320,Desktops,Lenovo,749.99,4.5,246
+U45,P82,1,14-10-2023 13:42,Canon PIXMA TS3320,Printers,Canon,150.0,3.5,246
+U7,P82,2,05-10-2023 21:49,Canon PIXMA TS3320,Printers,Canon,150.0,3.5,246
+U23,P82,5,01-10-2023 22:00,Canon PIXMA TS3320,Printers,Canon,150.0,3.5,246
+U11,P82,5,01-10-2023 19:59,Canon PIXMA TS3320,Printers,Canon,150.0,3.5,246
+U20,P32,4,25-10-2023 22:15,Canon PIXMA TS3320,Laptops,Acer,749.99,4.5,246
+U14,P58,2,28-10-2023 11:30,Canon PIXMA TS3320,Desktops,Lenovo,749.99,4.5,246
+U36,P58,2,22-10-2023 10:32,Canon PIXMA TS3320,Desktops,Lenovo,749.99,4.5,246
+U44,P144,2,25-10-2023 14:04,Canon PIXMA TS3320,Printers,Lenovo,899.99,4.7,246
+U12,P144,2,16-10-2023 12:06,Canon PIXMA TS3320,Printers,Lenovo,899.99,4.7,246
+U40,P142,3,12-10-2023 14:59,Canon PIXMA TS3320,Accessories,Logitech,29.99,4.1,246
+U10,P142,5,06-10-2023 10:13,Canon PIXMA TS3320,Accessories,Logitech,29.99,4.1,246
+U30,P6,5,26-10-2023 22:23,Canon PIXMA TS3320,Printers,Lenovo,199.99,4.4,246
+U24,P47,2,15-10-2023 13:06,Canon PIXMA TS3320,Desktops,Logitech,749.99,3.2,246
+U49,P127,1,01-10-2023 15:44,Dell Inspiron 15 5000 Laptop,Accessories,Lenovo,749.99,3.0,530
+U35,P193,4,18-10-2023 13:12,Dell Inspiron 15 5000 Laptop,Printers,Samsung,29.99,3.5,530
+U40,P162,3,15-10-2023 20:54,Dell Inspiron 15 5000 Laptop,Laptops,Lenovo,599.99,4.3,530
+U14,P162,1,15-10-2023 15:25,Dell Inspiron 15 5000 Laptop,Laptops,Lenovo,599.99,4.3,530
+U50,P162,3,13-10-2023 17:14,Dell Inspiron 15 5000 Laptop,Laptops,Lenovo,599.99,4.3,530
+U3,P162,5,29-10-2023 13:53,Dell Inspiron 15 5000 Laptop,Laptops,Lenovo,599.99,4.3,530
+U30,P162,5,22-10-2023 22:55,Dell Inspiron 15 5000 Laptop,Laptops,Lenovo,599.99,4.3,530
+U41,P162,2,12-10-2023 12:15,Dell Inspiron 15 5000 Laptop,Laptops,Lenovo,599.99,4.3,530
+U8,P162,4,30-10-2023 18:58,Dell Inspiron 15 5000 Laptop,Laptops,Lenovo,599.99,4.3,530
+U2,P162,2,08-10-2023 21:02,Dell Inspiron 15 5000 Laptop,Laptops,Lenovo,599.99,4.3,530
+U43,P162,2,22-10-2023 15:41,Dell Inspiron 15 5000 Laptop,Laptops,Lenovo,599.99,4.3,530
+U19,P162,5,29-10-2023 13:57,Dell Inspiron 15 5000 Laptop,Laptops,Lenovo,599.99,4.3,530
+U36,P193,1,18-10-2023 16:27,Dell Inspiron 15 5000 Laptop,Printers,Samsung,29.99,3.5,530
+U5,P193,1,29-10-2023 23:18,Dell Inspiron 15 5000 Laptop,Printers,Samsung,29.99,3.5,530
+U10,P193,5,10-10-2023 17:50,Dell Inspiron 15 5000 Laptop,Printers,Samsung,29.99,3.5,530
+U34,P193,4,27-10-2023 10:19,Dell Inspiron 15 5000 Laptop,Printers,Samsung,29.99,3.5,530
+U18,P193,5,21-10-2023 21:17,Dell Inspiron 15 5000 Laptop,Printers,Samsung,29.99,3.5,530
+U25,P193,3,18-10-2023 10:49,Dell Inspiron 15 5000 Laptop,Printers,Samsung,29.99,3.5,530
+U26,P193,4,19-10-2023 20:20,Dell Inspiron 15 5000 Laptop,Printers,Samsung,29.99,3.5,530
+U20,P193,4,19-10-2023 16:22,Dell Inspiron 15 5000 Laptop,Printers,Samsung,29.99,3.5,530
+U48,P193,2,06-10-2023 16:13,Dell Inspiron 15 5000 Laptop,Printers,Samsung,29.99,3.5,530
+U15,P193,2,04-10-2023 23:09,Dell Inspiron 15 5000 Laptop,Printers,Samsung,29.99,3.5,530
+U22,P193,1,24-10-2023 16:48,Dell Inspiron 15 5000 Laptop,Printers,Samsung,29.99,3.5,530
+U39,P193,2,16-10-2023 12:54,Dell Inspiron 15 5000 Laptop,Printers,Samsung,29.99,3.5,530
+U44,P162,2,10-10-2023 14:30,Dell Inspiron 15 5000 Laptop,Laptops,Lenovo,599.99,4.3,530
+U9,P162,4,23-10-2023 13:15,Dell Inspiron 15 5000 Laptop,Laptops,Lenovo,599.99,4.3,530
+U21,P186,3,30-10-2023 13:39,Dell Inspiron 15 5000 Laptop,Printers,Logitech,899.99,3.7,530
+U28,P186,5,27-10-2023 13:31,Dell Inspiron 15 5000 Laptop,Printers,Logitech,899.99,3.7,530
+U45,P186,1,16-10-2023 15:09,Dell Inspiron 15 5000 Laptop,Printers,Logitech,899.99,3.7,530
+U37,P186,5,11-10-2023 18:19,Dell Inspiron 15 5000 Laptop,Printers,Logitech,899.99,3.7,530
+U33,P90,3,12-10-2023 23:06,Dell Inspiron 15 5000 Laptop,Desktops,Lenovo,599.99,3.1,530
+U24,P90,1,23-10-2023 20:10,Dell Inspiron 15 5000 Laptop,Desktops,Lenovo,599.99,3.1,530
+U11,P90,3,07-10-2023 14:44,Dell Inspiron 15 5000 Laptop,Desktops,Lenovo,599.99,3.1,530
+U16,P90,3,07-10-2023 18:23,Dell Inspiron 15 5000 Laptop,Desktops,Lenovo,599.99,3.1,530
+U29,P90,1,27-10-2023 18:41,Dell Inspiron 15 5000 Laptop,Desktops,Lenovo,599.99,3.1,530
+U38,P90,4,20-10-2023 23:03,Dell Inspiron 15 5000 Laptop,Desktops,Lenovo,599.99,3.1,530
+U6,P90,4,25-10-2023 19:48,Dell Inspiron 15 5000 Laptop,Desktops,Lenovo,599.99,3.1,530
+U27,P90,4,24-10-2023 16:03,Dell Inspiron 15 5000 Laptop,Desktops,Lenovo,599.99,3.1,530
+U1,P162,4,06-10-2023 10:09,Dell Inspiron 15 5000 Laptop,Laptops,Lenovo,599.99,4.3,530
+U23,P84,1,12-10-2023 18:13,Dell Inspiron 15 5000 Laptop,Accessories,HP,899.99,4.8,530
+U4,P72,3,18-10-2023 21:21,Dell Inspiron 15 5000 Laptop,Desktops,Logitech,899.99,4.9,530
+U7,P59,4,12-10-2023 16:49,Dell Inspiron 15 5000 Laptop,Desktops,HP,199.99,3.3,530
+U12,P59,3,09-10-2023 22:18,Dell Inspiron 15 5000 Laptop,Desktops,HP,199.99,3.3,530
+U31,P59,3,19-10-2023 23:06,Dell Inspiron 15 5000 Laptop,Desktops,HP,199.99,3.3,530
+U46,P59,1,27-10-2023 14:21,Dell Inspiron 15 5000 Laptop,Desktops,HP,199.99,3.3,530
+U13,P59,3,08-10-2023 16:48,Dell Inspiron 15 5000 Laptop,Desktops,HP,199.99,3.3,530
+U47,P158,5,05-10-2023 10:38,Dell Inspiron 15 5000 Laptop,Accessories,Dell,29.99,4.2,530
+U42,P158,4,12-10-2023 19:26,Dell Inspiron 15 5000 Laptop,Accessories,Dell,29.99,4.2,530
+U17,P158,3,04-10-2023 14:46,Dell Inspiron 15 5000 Laptop,Accessories,Dell,29.99,4.2,530
+U32,P148,4,01-10-2023 20:52,Dell Inspiron 15 5000 Laptop,Laptops,Acer,199.99,4.5,530
+U10,P122,1,05-10-2023 18:00,Epson EcoTank ET-2720 Printer,Laptops,Samsung,199.0,4.1,434
+U19,P30,4,27-10-2023 20:50,Epson EcoTank ET-2720 Printer,Accessories,Lenovo,199.0,4.2,434
+U16,P55,1,06-10-2023 20:06,Epson EcoTank ET-2720 Printer,Printers,Logitech,179.99,4.3,434
+U41,P55,1,01-10-2023 16:02,Epson EcoTank ET-2720 Printer,Printers,Logitech,179.99,4.3,434
+U21,P30,3,20-10-2023 18:37,Epson EcoTank ET-2720 Printer,Accessories,Lenovo,199.0,4.2,434
+U3,P30,1,20-10-2023 21:47,Epson EcoTank ET-2720 Printer,Accessories,Lenovo,199.0,4.2,434
+U14,P30,4,14-10-2023 16:16,Epson EcoTank ET-2720 Printer,Accessories,Lenovo,199.0,4.2,434
+U18,P30,1,14-10-2023 14:52,Epson EcoTank ET-2720 Printer,Accessories,Lenovo,199.0,4.2,434
+U27,P30,4,28-10-2023 14:07,Epson EcoTank ET-2720 Printer,Accessories,Lenovo,199.0,4.2,434
+U7,P30,2,14-10-2023 22:58,Epson EcoTank ET-2720 Printer,Accessories,Lenovo,199.0,4.2,434
+U29,P30,5,08-10-2023 10:09,Epson EcoTank ET-2720 Printer,Accessories,Lenovo,199.0,4.2,434
+U1,P30,3,16-10-2023 18:08,Epson EcoTank ET-2720 Printer,Accessories,Lenovo,199.0,4.2,434
+U31,P21,1,24-10-2023 21:32,Epson EcoTank ET-2720 Printer,Laptops,Epson,899.99,4.6,434
+U34,P30,4,28-10-2023 11:50,Epson EcoTank ET-2720 Printer,Accessories,Lenovo,199.0,4.2,434
+U23,P30,4,28-10-2023 13:11,Epson EcoTank ET-2720 Printer,Accessories,Lenovo,199.0,4.2,434
+U11,P30,2,29-10-2023 12:39,Epson EcoTank ET-2720 Printer,Accessories,Lenovo,199.0,4.2,434
+U35,P30,4,25-10-2023 23:01,Epson EcoTank ET-2720 Printer,Accessories,Lenovo,199.0,4.2,434
+U26,P30,1,19-10-2023 12:30,Epson EcoTank ET-2720 Printer,Accessories,Lenovo,199.0,4.2,434
+U13,P30,3,09-10-2023 22:38,Epson EcoTank ET-2720 Printer,Accessories,Lenovo,199.0,4.2,434
+U48,P30,1,18-10-2023 21:47,Epson EcoTank ET-2720 Printer,Accessories,Lenovo,199.0,4.2,434
+U4,P55,1,24-10-2023 23:29,Epson EcoTank ET-2720 Printer,Printers,Logitech,179.99,4.3,434
+U43,P15,3,30-10-2023 12:09,Epson EcoTank ET-2720 Printer,Printers,Acer,599.99,4.3,434
+U32,P15,1,09-10-2023 16:13,Epson EcoTank ET-2720 Printer,Printers,Acer,599.99,4.3,434
+U5,P15,2,21-10-2023 22:58,Epson EcoTank ET-2720 Printer,Printers,Acer,599.99,4.3,434
+U17,P15,5,02-10-2023 22:40,Epson EcoTank ET-2720 Printer,Printers,Acer,599.99,4.3,434
+U42,P15,1,17-10-2023 16:56,Epson EcoTank ET-2720 Printer,Printers,Acer,599.99,4.3,434
+U20,P55,5,01-10-2023 10:36,Epson EcoTank ET-2720 Printer,Printers,Logitech,179.99,4.3,434
+U49,P55,3,04-10-2023 16:10,Epson EcoTank ET-2720 Printer,Printers,Logitech,179.99,4.3,434
+U47,P30,3,08-10-2023 16:30,Epson EcoTank ET-2720 Printer,Accessories,Lenovo,199.0,4.2,434
+U9,P10,4,07-10-2023 10:57,Epson EcoTank ET-2720 Printer,Laptops,Canon,29.99,3.1,434
+U45,P10,4,12-10-2023 22:41,Epson EcoTank ET-2720 Printer,Laptops,Canon,29.99,3.1,434
+U12,P10,2,02-10-2023 16:27,Epson EcoTank ET-2720 Printer,Laptops,Canon,29.99,3.1,434
+U33,P10,4,21-10-2023 19:19,Epson EcoTank ET-2720 Printer,Laptops,Canon,29.99,3.1,434
+U28,P147,2,29-10-2023 12:51,Epson EcoTank ET-2720 Printer,Accessories,Logitech,179.99,4.1,434
+U2,P147,3,14-10-2023 13:17,Epson EcoTank ET-2720 Printer,Accessories,Logitech,179.99,4.1,434
+U24,P56,5,23-10-2023 23:01,Epson EcoTank ET-2720 Printer,Desktops,Dell,179.99,4.2,434
+U40,P56,5,14-10-2023 18:10,Epson EcoTank ET-2720 Printer,Desktops,Dell,179.99,4.2,434
+U44,P56,1,14-10-2023 22:17,Epson EcoTank ET-2720 Printer,Desktops,Dell,179.99,4.2,434
+U50,P56,2,07-10-2023 11:09,Epson EcoTank ET-2720 Printer,Desktops,Dell,179.99,4.2,434
+U39,P56,5,11-10-2023 15:01,Epson EcoTank ET-2720 Printer,Desktops,Dell,179.99,4.2,434
+U30,P122,4,31-10-2023 19:15,Epson EcoTank ET-2720 Printer,Laptops,Samsung,199.0,4.1,434
+U36,P74,2,02-10-2023 23:52,Epson EcoTank ET-2720 Printer,Printers,Epson,99.99,3.6,434
+U8,P74,5,29-10-2023 15:42,Epson EcoTank ET-2720 Printer,Printers,Epson,99.99,3.6,434
+U37,P74,2,13-10-2023 13:43,Epson EcoTank ET-2720 Printer,Printers,Epson,99.99,3.6,434
+U22,P74,3,26-10-2023 13:44,Epson EcoTank ET-2720 Printer,Printers,Epson,99.99,3.6,434
+U15,P74,2,05-10-2023 16:24,Epson EcoTank ET-2720 Printer,Printers,Epson,99.99,3.6,434
+U38,P21,5,05-10-2023 22:30,Epson EcoTank ET-2720 Printer,Laptops,Epson,899.99,4.6,434
+U25,P153,1,26-10-2023 19:51,Epson EcoTank ET-2720 Printer,Printers,Dell,179.99,3.9,434
+U46,P189,4,06-10-2023 16:36,Epson EcoTank ET-2720 Printer,Laptops,Acer,899.99,3.4,434
+U6,P2,1,21-10-2023 17:09,Epson EcoTank ET-2720 Printer,Printers,Lenovo,549.99,3.1,434
+U20,P36,5,27-10-2023 12:25,HP Deskjet 3750 Printer,Printers,Canon,749.99,4.1,366
+U34,P88,1,01-10-2023 14:04,HP Deskjet 3750 Printer,Desktops,Epson,749.99,4.0,366
+U50,P88,3,26-10-2023 11:18,HP Deskjet 3750 Printer,Desktops,Epson,749.99,4.0,366
+U39,P88,2,03-10-2023 20:43,HP Deskjet 3750 Printer,Desktops,Epson,749.99,4.0,366
+U32,P88,4,19-10-2023 22:46,HP Deskjet 3750 Printer,Desktops,Epson,749.99,4.0,366
+U48,P88,1,08-10-2023 23:28,HP Deskjet 3750 Printer,Desktops,Epson,749.99,4.0,366
+U33,P88,2,12-10-2023 16:17,HP Deskjet 3750 Printer,Desktops,Epson,749.99,4.0,366
+U13,P88,3,26-10-2023 15:19,HP Deskjet 3750 Printer,Desktops,Epson,749.99,4.0,366
+U18,P77,4,06-10-2023 20:28,HP Deskjet 3750 Printer,Desktops,Lenovo,150.0,4.8,366
+U45,P77,3,13-10-2023 13:11,HP Deskjet 3750 Printer,Desktops,Lenovo,150.0,4.8,366
+U31,P77,1,16-10-2023 14:07,HP Deskjet 3750 Printer,Desktops,Lenovo,150.0,4.8,366
+U10,P77,4,19-10-2023 19:26,HP Deskjet 3750 Printer,Desktops,Lenovo,150.0,4.8,366
+U35,P77,4,15-10-2023 10:40,HP Deskjet 3750 Printer,Desktops,Lenovo,150.0,4.8,366
+U30,P77,4,07-10-2023 22:49,HP Deskjet 3750 Printer,Desktops,Lenovo,150.0,4.8,366
+U21,P77,5,08-10-2023 15:33,HP Deskjet 3750 Printer,Desktops,Lenovo,150.0,4.8,366
+U1,P77,5,09-10-2023 11:25,HP Deskjet 3750 Printer,Desktops,Lenovo,150.0,4.8,366
+U19,P77,5,18-10-2023 15:07,HP Deskjet 3750 Printer,Desktops,Lenovo,150.0,4.8,366
+U9,P77,5,04-10-2023 13:34,HP Deskjet 3750 Printer,Desktops,Lenovo,150.0,4.8,366
+U12,P77,1,26-10-2023 10:26,HP Deskjet 3750 Printer,Desktops,Lenovo,150.0,4.8,366
+U11,P88,5,06-10-2023 13:55,HP Deskjet 3750 Printer,Desktops,Epson,749.99,4.0,366
+U2,P88,2,12-10-2023 16:31,HP Deskjet 3750 Printer,Desktops,Epson,749.99,4.0,366
+U29,P77,1,02-10-2023 16:48,HP Deskjet 3750 Printer,Desktops,Lenovo,150.0,4.8,366
+U17,P88,4,10-10-2023 15:40,HP Deskjet 3750 Printer,Desktops,Epson,749.99,4.0,366
+U14,P76,3,10-10-2023 22:47,HP Deskjet 3750 Printer,Accessories,Acer,599.99,3.8,366
+U38,P76,3,02-10-2023 18:11,HP Deskjet 3750 Printer,Accessories,Acer,599.99,3.8,366
+U25,P76,2,13-10-2023 18:45,HP Deskjet 3750 Printer,Accessories,Acer,599.99,3.8,366
+U36,P76,2,31-10-2023 19:10,HP Deskjet 3750 Printer,Accessories,Acer,599.99,3.8,366
+U43,P76,5,23-10-2023 12:14,HP Deskjet 3750 Printer,Accessories,Acer,599.99,3.8,366
+U23,P76,1,21-10-2023 20:20,HP Deskjet 3750 Printer,Accessories,Acer,599.99,3.8,366
+U6,P88,2,16-10-2023 21:10,HP Deskjet 3750 Printer,Desktops,Epson,749.99,4.0,366
+U26,P88,4,31-10-2023 18:37,HP Deskjet 3750 Printer,Desktops,Epson,749.99,4.0,366
+U7,P88,4,01-10-2023 13:42,HP Deskjet 3750 Printer,Desktops,Epson,749.99,4.0,366
+U27,P88,2,05-10-2023 23:55,HP Deskjet 3750 Printer,Desktops,Epson,749.99,4.0,366
+U8,P88,2,14-10-2023 22:16,HP Deskjet 3750 Printer,Desktops,Epson,749.99,4.0,366
+U15,P154,3,15-10-2023 22:25,HP Deskjet 3750 Printer,Accessories,Acer,899.99,4.0,366
+U46,P154,3,10-10-2023 14:37,HP Deskjet 3750 Printer,Accessories,Acer,899.99,4.0,366
+U24,P154,3,04-10-2023 18:08,HP Deskjet 3750 Printer,Accessories,Acer,899.99,4.0,366
+U37,P154,1,15-10-2023 11:55,HP Deskjet 3750 Printer,Accessories,Acer,899.99,4.0,366
+U47,P154,1,12-10-2023 21:21,HP Deskjet 3750 Printer,Accessories,Acer,899.99,4.0,366
+U28,P154,4,16-10-2023 20:02,HP Deskjet 3750 Printer,Accessories,Acer,899.99,4.0,366
+U41,P154,3,28-10-2023 22:04,HP Deskjet 3750 Printer,Accessories,Acer,899.99,4.0,366
+U40,P77,2,22-10-2023 16:50,HP Deskjet 3750 Printer,Desktops,Lenovo,150.0,4.8,366
+U16,P154,1,28-10-2023 18:27,HP Deskjet 3750 Printer,Accessories,Acer,899.99,4.0,366
+U44,P154,1,08-10-2023 16:15,HP Deskjet 3750 Printer,Accessories,Acer,899.99,4.0,366
+U3,P75,3,10-10-2023 22:09,HP Deskjet 3750 Printer,Laptops,Acer,199.0,4.3,366
+U22,P114,2,19-10-2023 22:00,HP Deskjet 3750 Printer,Laptops,Acer,899.99,3.4,366
+U5,P75,3,29-10-2023 13:01,HP Deskjet 3750 Printer,Laptops,Acer,199.0,4.3,366
+U42,P106,2,25-10-2023 15:40,HP Deskjet 3750 Printer,Desktops,Epson,599.99,4.3,366
+U4,P106,1,18-10-2023 19:22,HP Deskjet 3750 Printer,Desktops,Epson,599.99,4.3,366
+U49,P64,1,18-10-2023 19:13,HP Deskjet 3750 Printer,Laptops,HP,199.0,4.4,366
+U8,P138,4,24-10-2023 15:29,HP LaserJet Pro MFP M428fdw,Desktops,HP,179.99,4.5,240
+U49,P138,1,13-10-2023 10:02,HP LaserJet Pro MFP M428fdw,Desktops,HP,179.99,4.5,240
+U40,P133,3,11-10-2023 14:08,HP LaserJet Pro MFP M428fdw,Desktops,Samsung,199.99,4.8,240
+U27,P133,1,25-10-2023 16:19,HP LaserJet Pro MFP M428fdw,Desktops,Samsung,199.99,4.8,240
+U46,P133,5,03-10-2023 14:29,HP LaserJet Pro MFP M428fdw,Desktops,Samsung,199.99,4.8,240
+U24,P133,2,26-10-2023 10:28,HP LaserJet Pro MFP M428fdw,Desktops,Samsung,199.99,4.8,240
+U19,P133,5,19-10-2023 11:33,HP LaserJet Pro MFP M428fdw,Desktops,Samsung,199.99,4.8,240
+U50,P133,1,14-10-2023 16:26,HP LaserJet Pro MFP M428fdw,Desktops,Samsung,199.99,4.8,240
+U15,P133,3,06-10-2023 23:56,HP LaserJet Pro MFP M428fdw,Desktops,Samsung,199.99,4.8,240
+U25,P133,5,02-10-2023 15:59,HP LaserJet Pro MFP M428fdw,Desktops,Samsung,199.99,4.8,240
+U36,P133,4,15-10-2023 16:35,HP LaserJet Pro MFP M428fdw,Desktops,Samsung,199.99,4.8,240
+U34,P129,2,31-10-2023 10:43,HP LaserJet Pro MFP M428fdw,Printers,HP,899.99,4.8,240
+U42,P129,3,01-10-2023 11:10,HP LaserJet Pro MFP M428fdw,Printers,HP,899.99,4.8,240
+U41,P129,2,04-10-2023 17:49,HP LaserJet Pro MFP M428fdw,Printers,HP,899.99,4.8,240
+U31,P129,5,11-10-2023 10:26,HP LaserJet Pro MFP M428fdw,Printers,HP,899.99,4.8,240
+U20,P129,1,19-10-2023 11:15,HP LaserJet Pro MFP M428fdw,Printers,HP,899.99,4.8,240
+U23,P129,4,19-10-2023 12:59,HP LaserJet Pro MFP M428fdw,Printers,HP,899.99,4.8,240
+U44,P129,1,11-10-2023 22:45,HP LaserJet Pro MFP M428fdw,Printers,HP,899.99,4.8,240
+U28,P129,4,26-10-2023 12:38,HP LaserJet Pro MFP M428fdw,Printers,HP,899.99,4.8,240
+U26,P129,4,16-10-2023 19:39,HP LaserJet Pro MFP M428fdw,Printers,HP,899.99,4.8,240
+U1,P129,5,13-10-2023 10:14,HP LaserJet Pro MFP M428fdw,Printers,HP,899.99,4.8,240
+U18,P129,4,30-10-2023 18:44,HP LaserJet Pro MFP M428fdw,Printers,HP,899.99,4.8,240
+U13,P133,3,10-10-2023 23:05,HP LaserJet Pro MFP M428fdw,Desktops,Samsung,199.99,4.8,240
+U16,P133,4,19-10-2023 17:43,HP LaserJet Pro MFP M428fdw,Desktops,Samsung,199.99,4.8,240
+U39,P123,3,01-10-2023 17:16,HP LaserJet Pro MFP M428fdw,Desktops,Logitech,599.99,4.6,240
+U14,P123,4,20-10-2023 19:11,HP LaserJet Pro MFP M428fdw,Desktops,Logitech,599.99,4.6,240
+U43,P123,1,10-10-2023 11:12,HP LaserJet Pro MFP M428fdw,Desktops,Logitech,599.99,4.6,240
+U10,P123,3,03-10-2023 23:50,HP LaserJet Pro MFP M428fdw,Desktops,Logitech,599.99,4.6,240
+U29,P109,5,23-10-2023 10:43,HP LaserJet Pro MFP M428fdw,Printers,Epson,99.99,3.9,240
+U9,P109,1,27-10-2023 12:29,HP LaserJet Pro MFP M428fdw,Printers,Epson,99.99,3.9,240
+U33,P133,1,18-10-2023 18:20,HP LaserJet Pro MFP M428fdw,Desktops,Samsung,199.99,4.8,240
+U35,P133,4,27-10-2023 16:59,HP LaserJet Pro MFP M428fdw,Desktops,Samsung,199.99,4.8,240
+U32,P133,5,21-10-2023 17:11,HP LaserJet Pro MFP M428fdw,Desktops,Samsung,199.99,4.8,240
+U2,P129,4,06-10-2023 12:45,HP LaserJet Pro MFP M428fdw,Printers,HP,899.99,4.8,240
+U6,P129,5,23-10-2023 11:01,HP LaserJet Pro MFP M428fdw,Printers,HP,899.99,4.8,240
+U11,P12,3,29-10-2023 12:51,HP LaserJet Pro MFP M428fdw,Accessories,Epson,549.99,4.0,240
+U4,P12,4,16-10-2023 11:29,HP LaserJet Pro MFP M428fdw,Accessories,Epson,549.99,4.0,240
+U48,P52,3,12-10-2023 15:18,HP LaserJet Pro MFP M428fdw,Desktops,HP,99.99,3.4,240
+U3,P52,4,28-10-2023 12:06,HP LaserJet Pro MFP M428fdw,Desktops,HP,99.99,3.4,240
+U5,P52,5,13-10-2023 21:02,HP LaserJet Pro MFP M428fdw,Desktops,HP,99.99,3.4,240
+U21,P52,4,29-10-2023 23:42,HP LaserJet Pro MFP M428fdw,Desktops,HP,99.99,3.4,240
+U7,P52,4,21-10-2023 22:56,HP LaserJet Pro MFP M428fdw,Desktops,HP,99.99,3.4,240
+U37,P52,3,24-10-2023 16:50,HP LaserJet Pro MFP M428fdw,Desktops,HP,99.99,3.4,240
+U22,P131,3,30-10-2023 12:02,HP LaserJet Pro MFP M428fdw,Printers,Dell,549.99,3.6,240
+U45,P131,5,25-10-2023 12:32,HP LaserJet Pro MFP M428fdw,Printers,Dell,549.99,3.6,240
+U12,P131,5,03-10-2023 15:05,HP LaserJet Pro MFP M428fdw,Printers,Dell,549.99,3.6,240
+U17,P123,2,19-10-2023 15:07,HP LaserJet Pro MFP M428fdw,Desktops,Logitech,599.99,4.6,240
+U30,P71,5,12-10-2023 11:27,HP LaserJet Pro MFP M428fdw,Laptops,Dell,599.99,3.4,240
+U38,P138,1,25-10-2023 16:19,HP LaserJet Pro MFP M428fdw,Desktops,HP,179.99,4.5,240
+U47,P92,2,11-10-2023 23:29,HP LaserJet Pro MFP M428fdw,Printers,Dell,749.99,4.3,240
+U17,P184,5,19-10-2023 12:06,HP Pavilion 14 Laptop,Printers,Acer,749.99,3.2,209
+U48,P175,2,10-10-2023 10:15,HP Pavilion 14 Laptop,Laptops,Acer,549.99,4.6,209
+U6,P165,3,05-10-2023 11:43,HP Pavilion 14 Laptop,Accessories,Acer,199.99,4.7,209
+U10,P165,5,20-10-2023 11:25,HP Pavilion 14 Laptop,Accessories,Acer,199.99,4.7,209
+U47,P165,1,10-10-2023 11:48,HP Pavilion 14 Laptop,Accessories,Acer,199.99,4.7,209
+U20,P165,4,28-10-2023 20:53,HP Pavilion 14 Laptop,Accessories,Acer,199.99,4.7,209
+U41,P165,1,10-10-2023 19:23,HP Pavilion 14 Laptop,Accessories,Acer,199.99,4.7,209
+U15,P165,3,19-10-2023 17:40,HP Pavilion 14 Laptop,Accessories,Acer,199.99,4.7,209
+U24,P165,3,26-10-2023 16:07,HP Pavilion 14 Laptop,Accessories,Acer,199.99,4.7,209
+U45,P165,5,27-10-2023 14:39,HP Pavilion 14 Laptop,Accessories,Acer,199.99,4.7,209
+U3,P165,3,11-10-2023 12:57,HP Pavilion 14 Laptop,Accessories,Acer,199.99,4.7,209
+U25,P165,1,18-10-2023 23:02,HP Pavilion 14 Laptop,Accessories,Acer,199.99,4.7,209
+U50,P165,1,27-10-2023 16:31,HP Pavilion 14 Laptop,Accessories,Acer,199.99,4.7,209
+U21,P165,1,13-10-2023 10:18,HP Pavilion 14 Laptop,Accessories,Acer,199.99,4.7,209
+U26,P165,2,26-10-2023 20:23,HP Pavilion 14 Laptop,Accessories,Acer,199.99,4.7,209
+U35,P150,3,20-10-2023 21:23,HP Pavilion 14 Laptop,Printers,Epson,199.0,3.6,209
+U13,P150,4,28-10-2023 13:18,HP Pavilion 14 Laptop,Printers,Epson,199.0,3.6,209
+U16,P150,3,24-10-2023 22:20,HP Pavilion 14 Laptop,Printers,Epson,199.0,3.6,209
+U30,P150,4,24-10-2023 16:48,HP Pavilion 14 Laptop,Printers,Epson,199.0,3.6,209
+U38,P150,5,29-10-2023 16:27,HP Pavilion 14 Laptop,Printers,Epson,199.0,3.6,209
+U7,P150,1,02-10-2023 10:38,HP Pavilion 14 Laptop,Printers,Epson,199.0,3.6,209
+U40,P165,2,20-10-2023 21:48,HP Pavilion 14 Laptop,Accessories,Acer,199.99,4.7,209
+U39,P165,4,01-10-2023 18:11,HP Pavilion 14 Laptop,Accessories,Acer,199.99,4.7,209
+U43,P175,3,29-10-2023 21:48,HP Pavilion 14 Laptop,Laptops,Acer,549.99,4.6,209
+U46,P175,3,29-10-2023 19:39,HP Pavilion 14 Laptop,Laptops,Acer,549.99,4.6,209
+U34,P175,3,28-10-2023 19:28,HP Pavilion 14 Laptop,Laptops,Acer,549.99,4.6,209
+U22,P175,1,18-10-2023 10:25,HP Pavilion 14 Laptop,Laptops,Acer,549.99,4.6,209
+U18,P175,5,29-10-2023 12:48,HP Pavilion 14 Laptop,Laptops,Acer,549.99,4.6,209
+U32,P175,2,03-10-2023 19:14,HP Pavilion 14 Laptop,Laptops,Acer,549.99,4.6,209
+U11,P175,4,25-10-2023 16:02,HP Pavilion 14 Laptop,Laptops,Acer,549.99,4.6,209
+U33,P175,1,22-10-2023 13:30,HP Pavilion 14 Laptop,Laptops,Acer,549.99,4.6,209
+U23,P175,1,23-10-2023 17:54,HP Pavilion 14 Laptop,Laptops,Acer,549.99,4.6,209
+U5,P165,4,27-10-2023 22:23,HP Pavilion 14 Laptop,Accessories,Acer,199.99,4.7,209
+U1,P165,5,22-10-2023 20:42,HP Pavilion 14 Laptop,Accessories,Acer,199.99,4.7,209
+U2,P165,1,31-10-2023 14:59,HP Pavilion 14 Laptop,Accessories,Acer,199.99,4.7,209
+U19,P150,3,03-10-2023 15:25,HP Pavilion 14 Laptop,Printers,Epson,199.0,3.6,209
+U29,P150,3,26-10-2023 13:56,HP Pavilion 14 Laptop,Printers,Epson,199.0,3.6,209
+U42,P150,4,07-10-2023 16:46,HP Pavilion 14 Laptop,Printers,Epson,199.0,3.6,209
+U36,P117,2,23-10-2023 17:16,HP Pavilion 14 Laptop,Laptops,HP,799.99,3.6,209
+U27,P117,4,22-10-2023 14:34,HP Pavilion 14 Laptop,Laptops,HP,799.99,3.6,209
+U9,P117,4,09-10-2023 12:00,HP Pavilion 14 Laptop,Laptops,HP,799.99,3.6,209
+U44,P117,4,25-10-2023 19:48,HP Pavilion 14 Laptop,Laptops,HP,799.99,3.6,209
+U31,P150,4,16-10-2023 15:40,HP Pavilion 14 Laptop,Printers,Epson,199.0,3.6,209
+U28,P9,4,02-10-2023 10:28,HP Pavilion 14 Laptop,Desktops,HP,599.99,3.8,209
+U12,P9,1,31-10-2023 12:30,HP Pavilion 14 Laptop,Desktops,HP,599.99,3.8,209
+U4,P7,3,15-10-2023 23:42,HP Pavilion 14 Laptop,Printers,Dell,29.99,4.8,209
+U37,P63,3,22-10-2023 12:05,HP Pavilion 14 Laptop,Laptops,Samsung,799.99,4.1,209
+U8,P185,4,21-10-2023 20:29,HP Pavilion 14 Laptop,Accessories,Epson,799.99,3.8,209
+U49,P175,5,01-10-2023 22:14,HP Pavilion 14 Laptop,Laptops,Acer,549.99,4.6,209
+U14,P63,2,23-10-2023 14:53,HP Pavilion 14 Laptop,Laptops,Samsung,799.99,4.1,209
+U28,P104,2,07-10-2023 13:37,HP Pavilion Home Desktop,Desktops,HP,799.99,4.1,291
+U24,P17,1,07-10-2023 17:08,HP Pavilion Home Desktop,Printers,Lenovo,899.99,3.4,291
+U50,P96,5,11-10-2023 12:44,HP Pavilion Home Desktop,Desktops,Lenovo,749.99,3.8,291
+U20,P96,3,08-10-2023 20:07,HP Pavilion Home Desktop,Desktops,Lenovo,749.99,3.8,291
+U19,P96,4,06-10-2023 21:11,HP Pavilion Home Desktop,Desktops,Lenovo,749.99,3.8,291
+U32,P96,1,28-10-2023 10:44,HP Pavilion Home Desktop,Desktops,Lenovo,749.99,3.8,291
+U14,P96,5,18-10-2023 20:18,HP Pavilion Home Desktop,Desktops,Lenovo,749.99,3.8,291
+U11,P96,2,03-10-2023 13:01,HP Pavilion Home Desktop,Desktops,Lenovo,749.99,3.8,291
+U30,P96,5,26-10-2023 14:02,HP Pavilion Home Desktop,Desktops,Lenovo,749.99,3.8,291
+U18,P96,1,13-10-2023 15:59,HP Pavilion Home Desktop,Desktops,Lenovo,749.99,3.8,291
+U12,P96,4,14-10-2023 14:10,HP Pavilion Home Desktop,Desktops,Lenovo,749.99,3.8,291
+U37,P96,3,13-10-2023 12:42,HP Pavilion Home Desktop,Desktops,Lenovo,749.99,3.8,291
+U9,P96,1,01-10-2023 10:35,HP Pavilion Home Desktop,Desktops,Lenovo,749.99,3.8,291
+U33,P96,2,21-10-2023 22:24,HP Pavilion Home Desktop,Desktops,Lenovo,749.99,3.8,291
+U42,P96,1,22-10-2023 15:26,HP Pavilion Home Desktop,Desktops,Lenovo,749.99,3.8,291
+U5,P96,1,28-10-2023 17:11,HP Pavilion Home Desktop,Desktops,Lenovo,749.99,3.8,291
+U4,P198,2,22-10-2023 16:13,HP Pavilion Home Desktop,Laptops,Samsung,749.99,3.1,291
+U22,P198,4,05-10-2023 16:42,HP Pavilion Home Desktop,Laptops,Samsung,749.99,3.1,291
+U16,P198,3,17-10-2023 18:32,HP Pavilion Home Desktop,Laptops,Samsung,749.99,3.1,291
+U43,P198,5,09-10-2023 16:26,HP Pavilion Home Desktop,Laptops,Samsung,749.99,3.1,291
+U39,P198,2,28-10-2023 15:00,HP Pavilion Home Desktop,Laptops,Samsung,749.99,3.1,291
+U8,P198,1,27-10-2023 14:38,HP Pavilion Home Desktop,Laptops,Samsung,749.99,3.1,291
+U35,P198,5,06-10-2023 22:40,HP Pavilion Home Desktop,Laptops,Samsung,749.99,3.1,291
+U29,P198,5,21-10-2023 13:03,HP Pavilion Home Desktop,Laptops,Samsung,749.99,3.1,291
+U40,P198,3,19-10-2023 12:11,HP Pavilion Home Desktop,Laptops,Samsung,749.99,3.1,291
+U3,P198,1,19-10-2023 13:50,HP Pavilion Home Desktop,Laptops,Samsung,749.99,3.1,291
+U38,P198,1,26-10-2023 19:08,HP Pavilion Home Desktop,Laptops,Samsung,749.99,3.1,291
+U13,P198,4,19-10-2023 11:39,HP Pavilion Home Desktop,Laptops,Samsung,749.99,3.1,291
+U23,P96,2,14-10-2023 23:37,HP Pavilion Home Desktop,Desktops,Lenovo,749.99,3.8,291
+U36,P96,1,18-10-2023 13:10,HP Pavilion Home Desktop,Desktops,Lenovo,749.99,3.8,291
+U17,P152,5,21-10-2023 17:33,HP Pavilion Home Desktop,Desktops,Samsung,179.99,4.3,291
+U48,P152,2,29-10-2023 10:01,HP Pavilion Home Desktop,Desktops,Samsung,179.99,4.3,291
+U10,P152,5,13-10-2023 23:31,HP Pavilion Home Desktop,Desktops,Samsung,179.99,4.3,291
+U44,P152,3,21-10-2023 11:59,HP Pavilion Home Desktop,Desktops,Samsung,179.99,4.3,291
+U25,P152,4,12-10-2023 20:34,HP Pavilion Home Desktop,Desktops,Samsung,179.99,4.3,291
+U31,P164,3,24-10-2023 18:19,HP Pavilion Home Desktop,Laptops,Canon,179.99,4.8,291
+U6,P96,4,07-10-2023 19:41,HP Pavilion Home Desktop,Desktops,Lenovo,749.99,3.8,291
+U41,P96,2,07-10-2023 23:26,HP Pavilion Home Desktop,Desktops,Lenovo,749.99,3.8,291
+U2,P96,2,26-10-2023 22:14,HP Pavilion Home Desktop,Desktops,Lenovo,749.99,3.8,291
+U47,P152,3,02-10-2023 13:45,HP Pavilion Home Desktop,Desktops,Samsung,179.99,4.3,291
+U26,P152,4,23-10-2023 10:06,HP Pavilion Home Desktop,Desktops,Samsung,179.99,4.3,291
+U45,P43,4,26-10-2023 13:32,HP Pavilion Home Desktop,Desktops,Lenovo,799.99,3.5,291
+U34,P43,1,10-10-2023 16:45,HP Pavilion Home Desktop,Desktops,Lenovo,799.99,3.5,291
+U21,P43,3,05-10-2023 15:55,HP Pavilion Home Desktop,Desktops,Lenovo,799.99,3.5,291
+U1,P43,1,31-10-2023 19:14,HP Pavilion Home Desktop,Desktops,Lenovo,799.99,3.5,291
+U27,P171,3,23-10-2023 14:02,HP Pavilion Home Desktop,Desktops,Acer,150.0,4.9,291
+U46,P166,2,25-10-2023 16:11,HP Pavilion Home Desktop,Accessories,Samsung,150.0,3.1,291
+U15,P166,5,23-10-2023 16:59,HP Pavilion Home Desktop,Accessories,Samsung,150.0,3.1,291
+U7,P171,1,17-10-2023 20:24,HP Pavilion Home Desktop,Desktops,Acer,150.0,4.9,291
+U49,P23,2,24-10-2023 18:17,HP Pavilion Home Desktop,Printers,Canon,799.99,3.7,291
+U18,P99,3,19-10-2023 15:32,Laser Printer XYZ 2000,Laptops,Dell,599.99,4.9,285
+U26,P31,5,06-10-2023 21:13,Laser Printer XYZ 2000,Printers,Samsung,199.0,4.6,285
+U38,P31,4,19-10-2023 23:34,Laser Printer XYZ 2000,Printers,Samsung,199.0,4.6,285
+U39,P31,5,02-10-2023 16:46,Laser Printer XYZ 2000,Printers,Samsung,199.0,4.6,285
+U24,P31,5,28-10-2023 14:41,Laser Printer XYZ 2000,Printers,Samsung,199.0,4.6,285
+U11,P31,5,05-10-2023 11:41,Laser Printer XYZ 2000,Printers,Samsung,199.0,4.6,285
+U33,P31,1,27-10-2023 14:20,Laser Printer XYZ 2000,Printers,Samsung,199.0,4.6,285
+U25,P31,2,31-10-2023 18:07,Laser Printer XYZ 2000,Printers,Samsung,199.0,4.6,285
+U15,P31,4,19-10-2023 13:52,Laser Printer XYZ 2000,Printers,Samsung,199.0,4.6,285
+U35,P31,5,25-10-2023 19:24,Laser Printer XYZ 2000,Printers,Samsung,199.0,4.6,285
+U2,P31,5,24-10-2023 14:23,Laser Printer XYZ 2000,Printers,Samsung,199.0,4.6,285
+U13,P31,4,15-10-2023 14:02,Laser Printer XYZ 2000,Printers,Samsung,199.0,4.6,285
+U50,P31,3,31-10-2023 13:52,Laser Printer XYZ 2000,Printers,Samsung,199.0,4.6,285
+U44,P31,5,11-10-2023 21:26,Laser Printer XYZ 2000,Printers,Samsung,199.0,4.6,285
+U27,P31,4,18-10-2023 15:14,Laser Printer XYZ 2000,Printers,Samsung,199.0,4.6,285
+U20,P31,2,16-10-2023 23:44,Laser Printer XYZ 2000,Printers,Samsung,199.0,4.6,285
+U41,P8,2,08-10-2023 23:14,Laser Printer XYZ 2000,Desktops,Logitech,549.99,3.2,285
+U19,P8,5,18-10-2023 17:12,Laser Printer XYZ 2000,Desktops,Logitech,549.99,3.2,285
+U37,P8,2,07-10-2023 18:27,Laser Printer XYZ 2000,Desktops,Logitech,549.99,3.2,285
+U34,P8,1,02-10-2023 14:49,Laser Printer XYZ 2000,Desktops,Logitech,549.99,3.2,285
+U9,P8,1,22-10-2023 12:17,Laser Printer XYZ 2000,Desktops,Logitech,549.99,3.2,285
+U7,P8,5,27-10-2023 23:17,Laser Printer XYZ 2000,Desktops,Logitech,549.99,3.2,285
+U36,P8,4,22-10-2023 10:45,Laser Printer XYZ 2000,Desktops,Logitech,549.99,3.2,285
+U40,P8,2,30-10-2023 19:30,Laser Printer XYZ 2000,Desktops,Logitech,549.99,3.2,285
+U12,P8,3,02-10-2023 13:04,Laser Printer XYZ 2000,Desktops,Logitech,549.99,3.2,285
+U23,P8,2,20-10-2023 15:28,Laser Printer XYZ 2000,Desktops,Logitech,549.99,3.2,285
+U21,P8,2,12-10-2023 16:57,Laser Printer XYZ 2000,Desktops,Logitech,549.99,3.2,285
+U32,P8,1,13-10-2023 20:33,Laser Printer XYZ 2000,Desktops,Logitech,549.99,3.2,285
+U16,P8,5,30-10-2023 22:31,Laser Printer XYZ 2000,Desktops,Logitech,549.99,3.2,285
+U28,P31,4,27-10-2023 18:15,Laser Printer XYZ 2000,Printers,Samsung,199.0,4.6,285
+U5,P98,5,18-10-2023 13:46,Laser Printer XYZ 2000,Printers,Samsung,150.0,4.1,285
+U4,P98,4,15-10-2023 11:51,Laser Printer XYZ 2000,Printers,Samsung,150.0,4.1,285
+U14,P98,5,05-10-2023 13:02,Laser Printer XYZ 2000,Printers,Samsung,150.0,4.1,285
+U45,P98,4,24-10-2023 15:41,Laser Printer XYZ 2000,Printers,Samsung,150.0,4.1,285
+U8,P98,4,04-10-2023 21:26,Laser Printer XYZ 2000,Printers,Samsung,150.0,4.1,285
+U43,P98,2,15-10-2023 16:37,Laser Printer XYZ 2000,Printers,Samsung,150.0,4.1,285
+U46,P98,1,08-10-2023 18:55,Laser Printer XYZ 2000,Printers,Samsung,150.0,4.1,285
+U29,P98,5,07-10-2023 12:03,Laser Printer XYZ 2000,Printers,Samsung,150.0,4.1,285
+U42,P98,1,11-10-2023 11:14,Laser Printer XYZ 2000,Printers,Samsung,150.0,4.1,285
+U22,P25,1,24-10-2023 16:08,Laser Printer XYZ 2000,Laptops,Acer,179.99,4.9,285
+U30,P25,3,23-10-2023 19:14,Laser Printer XYZ 2000,Laptops,Acer,179.99,4.9,285
+U17,P25,3,07-10-2023 23:25,Laser Printer XYZ 2000,Laptops,Acer,179.99,4.9,285
+U10,P25,4,04-10-2023 19:34,Laser Printer XYZ 2000,Laptops,Acer,179.99,4.9,285
+U47,P25,2,07-10-2023 15:15,Laser Printer XYZ 2000,Laptops,Acer,179.99,4.9,285
+U49,P25,5,29-10-2023 20:31,Laser Printer XYZ 2000,Laptops,Acer,179.99,4.9,285
+U3,P176,2,05-10-2023 23:48,Laser Printer XYZ 2000,Accessories,HP,749.99,3.4,285
+U6,P53,5,25-10-2023 18:59,Laser Printer XYZ 2000,Laptops,Samsung,99.99,3.5,285
+U31,P53,5,05-10-2023 23:10,Laser Printer XYZ 2000,Laptops,Samsung,99.99,3.5,285
+U1,P57,2,20-10-2023 10:52,Laser Printer XYZ 2000,Accessories,HP,899.99,3.3,285
+U48,P125,1,09-10-2023 17:25,Laser Printer XYZ 2000,Desktops,Samsung,799.99,3.0,285
+U33,P126,4,07-10-2023 15:57,Lenovo ThinkPad L15,Accessories,Samsung,549.99,3.6,311
+U49,P174,5,12-10-2023 23:40,Lenovo ThinkPad L15,Accessories,Acer,179.99,4.6,311
+U5,P174,2,18-10-2023 18:40,Lenovo ThinkPad L15,Accessories,Acer,179.99,4.6,311
+U50,P174,4,20-10-2023 17:51,Lenovo ThinkPad L15,Accessories,Acer,179.99,4.6,311
+U41,P174,2,16-10-2023 12:27,Lenovo ThinkPad L15,Accessories,Acer,179.99,4.6,311
+U38,P174,5,26-10-2023 11:47,Lenovo ThinkPad L15,Accessories,Acer,179.99,4.6,311
+U27,P174,4,04-10-2023 20:35,Lenovo ThinkPad L15,Accessories,Acer,179.99,4.6,311
+U46,P181,3,08-10-2023 16:42,Lenovo ThinkPad L15,Laptops,Logitech,199.99,4.5,311
+U32,P181,5,07-10-2023 12:18,Lenovo ThinkPad L15,Laptops,Logitech,199.99,4.5,311
+U25,P181,3,21-10-2023 21:01,Lenovo ThinkPad L15,Laptops,Logitech,199.99,4.5,311
+U20,P181,2,25-10-2023 14:55,Lenovo ThinkPad L15,Laptops,Logitech,199.99,4.5,311
+U22,P181,5,10-10-2023 13:01,Lenovo ThinkPad L15,Laptops,Logitech,199.99,4.5,311
+U14,P174,1,18-10-2023 21:48,Lenovo ThinkPad L15,Accessories,Acer,179.99,4.6,311
+U11,P174,4,19-10-2023 19:27,Lenovo ThinkPad L15,Accessories,Acer,179.99,4.6,311
+U24,P174,3,31-10-2023 11:29,Lenovo ThinkPad L15,Accessories,Acer,179.99,4.6,311
+U21,P174,5,29-10-2023 12:26,Lenovo ThinkPad L15,Accessories,Acer,179.99,4.6,311
+U23,P34,1,09-10-2023 21:18,Lenovo ThinkPad L15,Accessories,HP,29.99,4.9,311
+U7,P34,1,04-10-2023 21:58,Lenovo ThinkPad L15,Accessories,HP,29.99,4.9,311
+U43,P174,4,17-10-2023 18:15,Lenovo ThinkPad L15,Accessories,Acer,179.99,4.6,311
+U9,P174,4,06-10-2023 20:47,Lenovo ThinkPad L15,Accessories,Acer,179.99,4.6,311
+U45,P174,4,17-10-2023 17:38,Lenovo ThinkPad L15,Accessories,Acer,179.99,4.6,311
+U31,P174,2,03-10-2023 10:39,Lenovo ThinkPad L15,Accessories,Acer,179.99,4.6,311
+U29,P174,3,08-10-2023 22:40,Lenovo ThinkPad L15,Accessories,Acer,179.99,4.6,311
+U26,P174,5,06-10-2023 16:56,Lenovo ThinkPad L15,Accessories,Acer,179.99,4.6,311
+U12,P174,2,25-10-2023 19:15,Lenovo ThinkPad L15,Accessories,Acer,179.99,4.6,311
+U34,P174,1,30-10-2023 18:17,Lenovo ThinkPad L15,Accessories,Acer,179.99,4.6,311
+U28,P34,3,12-10-2023 22:48,Lenovo ThinkPad L15,Accessories,HP,29.99,4.9,311
+U1,P81,4,02-10-2023 18:44,Lenovo ThinkPad L15,Laptops,Lenovo,150.0,4.1,311
+U19,P81,3,30-10-2023 10:36,Lenovo ThinkPad L15,Laptops,Lenovo,150.0,4.1,311
+U4,P81,1,14-10-2023 15:01,Lenovo ThinkPad L15,Laptops,Lenovo,150.0,4.1,311
+U6,P181,1,02-10-2023 18:00,Lenovo ThinkPad L15,Laptops,Logitech,199.99,4.5,311
+U44,P81,5,29-10-2023 20:36,Lenovo ThinkPad L15,Laptops,Lenovo,150.0,4.1,311
+U8,P66,5,13-10-2023 21:17,Lenovo ThinkPad L15,Printers,Acer,899.99,4.6,311
+U16,P66,3,18-10-2023 17:28,Lenovo ThinkPad L15,Printers,Acer,899.99,4.6,311
+U2,P81,2,04-10-2023 11:51,Lenovo ThinkPad L15,Laptops,Lenovo,150.0,4.1,311
+U47,P181,2,18-10-2023 12:54,Lenovo ThinkPad L15,Laptops,Logitech,199.99,4.5,311
+U37,P81,3,19-10-2023 19:42,Lenovo ThinkPad L15,Laptops,Lenovo,150.0,4.1,311
+U35,P81,4,11-10-2023 23:17,Lenovo ThinkPad L15,Laptops,Lenovo,150.0,4.1,311
+U36,P81,1,07-10-2023 10:43,Lenovo ThinkPad L15,Laptops,Lenovo,150.0,4.1,311
+U30,P81,2,01-10-2023 18:00,Lenovo ThinkPad L15,Laptops,Lenovo,150.0,4.1,311
+U42,P190,2,08-10-2023 13:30,Lenovo ThinkPad L15,Printers,Dell,199.99,3.9,311
+U10,P190,3,01-10-2023 19:27,Lenovo ThinkPad L15,Printers,Dell,199.99,3.9,311
+U13,P190,3,20-10-2023 10:00,Lenovo ThinkPad L15,Printers,Dell,199.99,3.9,311
+U18,P190,4,18-10-2023 23:09,Lenovo ThinkPad L15,Printers,Dell,199.99,3.9,311
+U15,P46,2,18-10-2023 18:47,Lenovo ThinkPad L15,Desktops,Dell,199.0,3.5,311
+U39,P190,1,19-10-2023 19:11,Lenovo ThinkPad L15,Printers,Dell,199.99,3.9,311
+U48,P172,4,17-10-2023 12:44,Lenovo ThinkPad L15,Laptops,Canon,99.99,4.1,311
+U40,P168,2,25-10-2023 17:34,Lenovo ThinkPad L15,Accessories,Lenovo,199.0,4.3,311
+U3,P95,2,08-10-2023 13:35,Lenovo ThinkPad L15,Laptops,Logitech,150.0,3.1,311
+U17,P18,1,22-10-2023 20:48,Lenovo ThinkPad L15,Laptops,Epson,99.99,4.2,311
+U34,P5,4,25-10-2023 19:16,Logitech Wireless Mouse,Accessories,Lenovo,29.99,4.5,270
+U1,P14,4,21-10-2023 16:16,Logitech Wireless Mouse,Printers,Dell,799.99,3.4,270
+U44,P14,5,14-10-2023 12:38,Logitech Wireless Mouse,Printers,Dell,799.99,3.4,270
+U5,P14,1,19-10-2023 20:52,Logitech Wireless Mouse,Printers,Dell,799.99,3.4,270
+U20,P14,3,15-10-2023 17:04,Logitech Wireless Mouse,Printers,Dell,799.99,3.4,270
+U37,P14,2,25-10-2023 23:20,Logitech Wireless Mouse,Printers,Dell,799.99,3.4,270
+U27,P14,1,27-10-2023 19:59,Logitech Wireless Mouse,Printers,Dell,799.99,3.4,270
+U7,P14,1,30-10-2023 17:28,Logitech Wireless Mouse,Printers,Dell,799.99,3.4,270
+U13,P14,1,12-10-2023 19:14,Logitech Wireless Mouse,Printers,Dell,799.99,3.4,270
+U48,P14,1,05-10-2023 18:47,Logitech Wireless Mouse,Printers,Dell,799.99,3.4,270
+U43,P14,5,23-10-2023 19:19,Logitech Wireless Mouse,Printers,Dell,799.99,3.4,270
+U18,P14,4,14-10-2023 11:56,Logitech Wireless Mouse,Printers,Dell,799.99,3.4,270
+U23,P14,3,23-10-2023 14:53,Logitech Wireless Mouse,Printers,Dell,799.99,3.4,270
+U25,P14,5,17-10-2023 17:46,Logitech Wireless Mouse,Printers,Dell,799.99,3.4,270
+U22,P139,5,29-10-2023 12:15,Logitech Wireless Mouse,Desktops,Epson,199.0,4.5,270
+U4,P139,3,01-10-2023 12:34,Logitech Wireless Mouse,Desktops,Epson,199.0,4.5,270
+U33,P139,1,31-10-2023 13:17,Logitech Wireless Mouse,Desktops,Epson,199.0,4.5,270
+U35,P139,3,17-10-2023 19:14,Logitech Wireless Mouse,Desktops,Epson,199.0,4.5,270
+U38,P139,5,20-10-2023 11:51,Logitech Wireless Mouse,Desktops,Epson,199.0,4.5,270
+U11,P139,2,06-10-2023 19:44,Logitech Wireless Mouse,Desktops,Epson,199.0,4.5,270
+U39,P139,2,18-10-2023 16:46,Logitech Wireless Mouse,Desktops,Epson,199.0,4.5,270
+U29,P139,2,26-10-2023 20:03,Logitech Wireless Mouse,Desktops,Epson,199.0,4.5,270
+U32,P139,3,12-10-2023 15:32,Logitech Wireless Mouse,Desktops,Epson,199.0,4.5,270
+U41,P139,4,30-10-2023 13:40,Logitech Wireless Mouse,Desktops,Epson,199.0,4.5,270
+U46,P188,5,02-10-2023 22:40,Logitech Wireless Mouse,Desktops,Canon,749.99,3.5,270
+U3,P188,5,03-10-2023 14:49,Logitech Wireless Mouse,Desktops,Canon,749.99,3.5,270
+U14,P188,5,19-10-2023 14:25,Logitech Wireless Mouse,Desktops,Canon,749.99,3.5,270
+U2,P188,1,28-10-2023 13:59,Logitech Wireless Mouse,Desktops,Canon,749.99,3.5,270
+U50,P188,3,31-10-2023 23:59,Logitech Wireless Mouse,Desktops,Canon,749.99,3.5,270
+U28,P188,5,19-10-2023 13:44,Logitech Wireless Mouse,Desktops,Canon,749.99,3.5,270
+U31,P188,1,23-10-2023 11:20,Logitech Wireless Mouse,Desktops,Canon,749.99,3.5,270
+U45,P188,4,15-10-2023 11:07,Logitech Wireless Mouse,Desktops,Canon,749.99,3.5,270
+U10,P14,1,07-10-2023 11:13,Logitech Wireless Mouse,Printers,Dell,799.99,3.4,270
+U30,P188,5,29-10-2023 21:26,Logitech Wireless Mouse,Desktops,Canon,749.99,3.5,270
+U21,P188,4,26-10-2023 22:52,Logitech Wireless Mouse,Desktops,Canon,749.99,3.5,270
+U36,P14,5,13-10-2023 12:22,Logitech Wireless Mouse,Printers,Dell,799.99,3.4,270
+U19,P14,4,07-10-2023 18:49,Logitech Wireless Mouse,Printers,Dell,799.99,3.4,270
+U15,P139,5,16-10-2023 11:48,Logitech Wireless Mouse,Desktops,Epson,199.0,4.5,270
+U17,P13,2,27-10-2023 15:47,Logitech Wireless Mouse,Desktops,Acer,150.0,3.1,270
+U24,P13,1,13-10-2023 21:48,Logitech Wireless Mouse,Desktops,Acer,150.0,3.1,270
+U49,P13,3,14-10-2023 11:23,Logitech Wireless Mouse,Desktops,Acer,150.0,3.1,270
+U42,P13,1,03-10-2023 20:08,Logitech Wireless Mouse,Desktops,Acer,150.0,3.1,270
+U12,P13,3,19-10-2023 23:11,Logitech Wireless Mouse,Desktops,Acer,150.0,3.1,270
+U8,P13,2,30-10-2023 18:46,Logitech Wireless Mouse,Desktops,Acer,150.0,3.1,270
+U26,P54,1,27-10-2023 16:09,Logitech Wireless Mouse,Laptops,Dell,599.99,4.9,270
+U9,P54,2,26-10-2023 19:04,Logitech Wireless Mouse,Laptops,Dell,599.99,4.9,270
+U16,P139,1,21-10-2023 13:07,Logitech Wireless Mouse,Desktops,Epson,199.0,4.5,270
+U6,P85,1,06-10-2023 18:41,Logitech Wireless Mouse,Accessories,HP,199.0,3.8,270
+U47,P85,2,20-10-2023 12:08,Logitech Wireless Mouse,Accessories,HP,199.0,3.8,270
+U40,P160,3,31-10-2023 20:42,Logitech Wireless Mouse,Laptops,Epson,799.99,3.4,270
+U11,P3,2,23-10-2023 20:13,"Samsung 32"" Curved Monitor",Laptops,Dell,599.99,3.6,462
+U38,P121,5,09-10-2023 13:22,"Samsung 32"" Curved Monitor",Accessories,HP,799.99,4.5,462
+U25,P121,3,08-10-2023 14:34,"Samsung 32"" Curved Monitor",Accessories,HP,799.99,4.5,462
+U47,P121,2,11-10-2023 12:11,"Samsung 32"" Curved Monitor",Accessories,HP,799.99,4.5,462
+U33,P121,3,30-10-2023 21:58,"Samsung 32"" Curved Monitor",Accessories,HP,799.99,4.5,462
+U22,P121,4,08-10-2023 14:12,"Samsung 32"" Curved Monitor",Accessories,HP,799.99,4.5,462
+U14,P121,2,28-10-2023 12:26,"Samsung 32"" Curved Monitor",Accessories,HP,799.99,4.5,462
+U15,P121,2,31-10-2023 11:08,"Samsung 32"" Curved Monitor",Accessories,HP,799.99,4.5,462
+U17,P121,5,20-10-2023 18:36,"Samsung 32"" Curved Monitor",Accessories,HP,799.99,4.5,462
+U39,P121,2,27-10-2023 12:53,"Samsung 32"" Curved Monitor",Accessories,HP,799.99,4.5,462
+U16,P121,2,13-10-2023 14:48,"Samsung 32"" Curved Monitor",Accessories,HP,799.99,4.5,462
+U30,P121,1,14-10-2023 13:08,"Samsung 32"" Curved Monitor",Accessories,HP,799.99,4.5,462
+U3,P121,2,04-10-2023 11:51,"Samsung 32"" Curved Monitor",Accessories,HP,799.99,4.5,462
+U1,P121,3,27-10-2023 11:58,"Samsung 32"" Curved Monitor",Accessories,HP,799.99,4.5,462
+U10,P121,5,24-10-2023 12:12,"Samsung 32"" Curved Monitor",Accessories,HP,799.99,4.5,462
+U20,P121,3,13-10-2023 15:03,"Samsung 32"" Curved Monitor",Accessories,HP,799.99,4.5,462
+U46,P121,3,12-10-2023 16:01,"Samsung 32"" Curved Monitor",Accessories,HP,799.99,4.5,462
+U4,P121,1,17-10-2023 11:36,"Samsung 32"" Curved Monitor",Accessories,HP,799.99,4.5,462
+U6,P86,2,07-10-2023 20:54,"Samsung 32"" Curved Monitor",Accessories,Dell,799.99,3.4,462
+U37,P86,2,30-10-2023 18:47,"Samsung 32"" Curved Monitor",Accessories,Dell,799.99,3.4,462
+U28,P86,2,22-10-2023 14:56,"Samsung 32"" Curved Monitor",Accessories,Dell,799.99,3.4,462
+U43,P86,5,29-10-2023 14:28,"Samsung 32"" Curved Monitor",Accessories,Dell,799.99,3.4,462
+U32,P86,4,19-10-2023 21:47,"Samsung 32"" Curved Monitor",Accessories,Dell,799.99,3.4,462
+U7,P86,1,13-10-2023 20:13,"Samsung 32"" Curved Monitor",Accessories,Dell,799.99,3.4,462
+U49,P86,3,25-10-2023 16:35,"Samsung 32"" Curved Monitor",Accessories,Dell,799.99,3.4,462
+U36,P86,1,07-10-2023 12:36,"Samsung 32"" Curved Monitor",Accessories,Dell,799.99,3.4,462
+U12,P121,2,20-10-2023 12:14,"Samsung 32"" Curved Monitor",Accessories,HP,799.99,4.5,462
+U31,P121,4,04-10-2023 19:41,"Samsung 32"" Curved Monitor",Accessories,HP,799.99,4.5,462
+U9,P86,2,21-10-2023 19:42,"Samsung 32"" Curved Monitor",Accessories,Dell,799.99,3.4,462
+U48,P121,3,04-10-2023 16:37,"Samsung 32"" Curved Monitor",Accessories,HP,799.99,4.5,462
+U27,P87,3,26-10-2023 13:45,"Samsung 32"" Curved Monitor",Laptops,Acer,199.99,5.0,462
+U41,P87,4,24-10-2023 18:48,"Samsung 32"" Curved Monitor",Laptops,Acer,199.99,5.0,462
+U13,P87,4,25-10-2023 20:59,"Samsung 32"" Curved Monitor",Laptops,Acer,199.99,5.0,462
+U26,P87,5,05-10-2023 12:07,"Samsung 32"" Curved Monitor",Laptops,Acer,199.99,5.0,462
+U23,P110,1,05-10-2023 10:33,"Samsung 32"" Curved Monitor",Laptops,HP,599.99,4.9,462
+U21,P110,1,07-10-2023 16:38,"Samsung 32"" Curved Monitor",Laptops,HP,599.99,4.9,462
+U35,P110,2,27-10-2023 19:03,"Samsung 32"" Curved Monitor",Laptops,HP,599.99,4.9,462
+U18,P110,3,14-10-2023 19:55,"Samsung 32"" Curved Monitor",Laptops,HP,599.99,4.9,462
+U24,P110,2,20-10-2023 19:48,"Samsung 32"" Curved Monitor",Laptops,HP,599.99,4.9,462
+U29,P121,3,19-10-2023 15:46,"Samsung 32"" Curved Monitor",Accessories,HP,799.99,4.5,462
+U45,P121,4,13-10-2023 20:23,"Samsung 32"" Curved Monitor",Accessories,HP,799.99,4.5,462
+U42,P116,1,10-10-2023 17:56,"Samsung 32"" Curved Monitor",Accessories,HP,549.99,4.7,462
+U50,P116,5,23-10-2023 18:26,"Samsung 32"" Curved Monitor",Accessories,HP,549.99,4.7,462
+U44,P116,3,27-10-2023 18:25,"Samsung 32"" Curved Monitor",Accessories,HP,549.99,4.7,462
+U19,P136,3,15-10-2023 12:35,"Samsung 32"" Curved Monitor",Accessories,Lenovo,179.99,4.0,462
+U34,P136,3,10-10-2023 13:51,"Samsung 32"" Curved Monitor",Accessories,Lenovo,179.99,4.0,462
+U2,P103,4,24-10-2023 23:45,"Samsung 32"" Curved Monitor",Laptops,Logitech,179.99,4.4,462
+U8,P116,3,18-10-2023 10:42,"Samsung 32"" Curved Monitor",Accessories,HP,549.99,4.7,462
+U40,P37,2,13-10-2023 16:28,"Samsung 32"" Curved Monitor",Printers,Canon,799.99,4.7,462
+U5,P37,1,12-10-2023 18:05,"Samsung 32"" Curved Monitor",Printers,Canon,799.99,4.7,462

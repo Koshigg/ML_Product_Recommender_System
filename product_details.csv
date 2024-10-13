@@ -1,0 +1,201 @@
+product_id,product_name,category,brand,price,product_rating
+P1,Epson EcoTank ET-2720 Printer,Laptops,HP,549.99,4.3
+P2,Epson EcoTank ET-2720 Printer,Printers,Lenovo,549.99,3.1
+P3,"Samsung 32"" Curved Monitor",Laptops,Dell,599.99,3.6
+P4,HP Deskjet 3750 Printer,Accessories,Logitech,179.99,3.4
+P5,Logitech Wireless Mouse,Accessories,Lenovo,29.99,4.5
+P6,Canon PIXMA TS3320,Printers,Lenovo,199.99,4.4
+P7,HP Pavilion 14 Laptop,Printers,Dell,29.99,4.8
+P8,Laser Printer XYZ 2000,Desktops,Logitech,549.99,3.2
+P9,HP Pavilion 14 Laptop,Desktops,HP,599.99,3.8
+P10,Epson EcoTank ET-2720 Printer,Laptops,Canon,29.99,3.1
+P11,Dell Inspiron 15 5000 Laptop,Accessories,Lenovo,29.99,3.4
+P12,HP LaserJet Pro MFP M428fdw,Accessories,Epson,549.99,4
+P13,Logitech Wireless Mouse,Desktops,Acer,150,3.1
+P14,Logitech Wireless Mouse,Printers,Dell,799.99,3.4
+P15,Epson EcoTank ET-2720 Printer,Printers,Acer,599.99,4.3
+P16,Epson EcoTank ET-2720 Printer,Printers,Dell,150,4.1
+P17,HP Pavilion Home Desktop,Printers,Lenovo,899.99,3.4
+P18,Lenovo ThinkPad L15,Laptops,Epson,99.99,4.2
+P19,HP Deskjet 3750 Printer,Accessories,Lenovo,899.99,4.6
+P20,Dell Inspiron 15 5000 Laptop,Printers,Epson,799.99,3
+P21,Epson EcoTank ET-2720 Printer,Laptops,Epson,899.99,4.6
+P22,HP Pavilion Home Desktop,Desktops,HP,749.99,4.4
+P23,HP Pavilion Home Desktop,Printers,Canon,799.99,3.7
+P24,Lenovo ThinkPad L15,Desktops,HP,199,3.3
+P25,Laser Printer XYZ 2000,Laptops,Acer,179.99,4.9
+P26,Acer Aspire 5 Desktop,Printers,Logitech,29.99,3.7
+P27,HP Pavilion Home Desktop,Desktops,Canon,99.99,3.2
+P28,"Samsung 32"" Curved Monitor",Printers,Canon,29.99,3.2
+P29,HP Deskjet 3750 Printer,Accessories,Dell,599.99,4.7
+P30,Epson EcoTank ET-2720 Printer,Accessories,Lenovo,199,4.2
+P31,Laser Printer XYZ 2000,Printers,Samsung,199,4.6
+P32,Canon PIXMA TS3320,Laptops,Acer,749.99,4.5
+P33,Acer Aspire 5 Desktop,Printers,Epson,29.99,4.1
+P34,Lenovo ThinkPad L15,Accessories,HP,29.99,4.9
+P35,Canon PIXMA TS3320,Desktops,Canon,799.99,3.8
+P36,HP Deskjet 3750 Printer,Printers,Canon,749.99,4.1
+P37,"Samsung 32"" Curved Monitor",Printers,Canon,799.99,4.7
+P38,Canon PIXMA TS3320,Accessories,HP,199.99,4.2
+P39,Acer Aspire 5 Desktop,Laptops,Acer,29.99,4.7
+P40,Acer Aspire 5 Desktop,Accessories,Epson,179.99,4.2
+P41,Logitech Wireless Mouse,Desktops,Samsung,549.99,4.4
+P42,Acer Aspire 5 Desktop,Accessories,Acer,799.99,3.1
+P43,HP Pavilion Home Desktop,Desktops,Lenovo,799.99,3.5
+P44,Epson EcoTank ET-2720 Printer,Accessories,Canon,199,3.6
+P45,Canon PIXMA TS3320,Accessories,Logitech,199,3.2
+P46,Lenovo ThinkPad L15,Desktops,Dell,199,3.5
+P47,Canon PIXMA TS3320,Desktops,Logitech,749.99,3.2
+P48,HP Pavilion 14 Laptop,Desktops,Acer,549.99,3.6
+P49,Lenovo ThinkPad L15,Accessories,Dell,799.99,4.3
+P50,Dell Inspiron 15 5000 Laptop,Desktops,Dell,899.99,3.7
+P51,Dell Inspiron 15 5000 Laptop,Accessories,Canon,199,3.7
+P52,HP LaserJet Pro MFP M428fdw,Desktops,HP,99.99,3.4
+P53,Laser Printer XYZ 2000,Laptops,Samsung,99.99,3.5
+P54,Logitech Wireless Mouse,Laptops,Dell,599.99,4.9
+P55,Epson EcoTank ET-2720 Printer,Printers,Logitech,179.99,4.3
+P56,Epson EcoTank ET-2720 Printer,Desktops,Dell,179.99,4.2
+P57,Laser Printer XYZ 2000,Accessories,HP,899.99,3.3
+P58,Canon PIXMA TS3320,Desktops,Lenovo,749.99,4.5
+P59,Dell Inspiron 15 5000 Laptop,Desktops,HP,199.99,3.3
+P60,Epson EcoTank ET-2720 Printer,Laptops,Canon,599.99,3.8
+P61,"Samsung 32"" Curved Monitor",Printers,Acer,199,5
+P62,"Samsung 32"" Curved Monitor",Laptops,Epson,749.99,4.3
+P63,HP Pavilion 14 Laptop,Laptops,Samsung,799.99,4.1
+P64,HP Deskjet 3750 Printer,Laptops,HP,199,4.4
+P65,"Samsung 32"" Curved Monitor",Desktops,Logitech,99.99,4.7
+P66,Lenovo ThinkPad L15,Printers,Acer,899.99,4.6
+P67,Acer Aspire 5 Desktop,Printers,Logitech,549.99,3.5
+P68,Epson EcoTank ET-2720 Printer,Desktops,Canon,749.99,3.1
+P69,Acer Aspire 5 Desktop,Desktops,Acer,199.99,3.6
+P70,Laser Printer XYZ 2000,Printers,Dell,29.99,3.5
+P71,HP LaserJet Pro MFP M428fdw,Laptops,Dell,599.99,3.4
+P72,Dell Inspiron 15 5000 Laptop,Desktops,Logitech,899.99,4.9
+P73,Acer Aspire 5 Desktop,Laptops,Samsung,199.99,4.8
+P74,Epson EcoTank ET-2720 Printer,Printers,Epson,99.99,3.6
+P75,HP Deskjet 3750 Printer,Laptops,Acer,199,4.3
+P76,HP Deskjet 3750 Printer,Accessories,Acer,599.99,3.8
+P77,HP Deskjet 3750 Printer,Desktops,Lenovo,150,4.8
+P78,HP Pavilion Home Desktop,Desktops,Samsung,179.99,3.9
+P79,Dell Inspiron 15 5000 Laptop,Accessories,Canon,199.99,3.5
+P80,Acer Aspire 5 Desktop,Accessories,Canon,29.99,3.5
+P81,Lenovo ThinkPad L15,Laptops,Lenovo,150,4.1
+P82,Canon PIXMA TS3320,Printers,Canon,150,3.5
+P83,Acer Aspire 5 Desktop,Laptops,Canon,99.99,4.2
+P84,Dell Inspiron 15 5000 Laptop,Accessories,HP,899.99,4.8
+P85,Logitech Wireless Mouse,Accessories,HP,199,3.8
+P86,"Samsung 32"" Curved Monitor",Accessories,Dell,799.99,3.4
+P87,"Samsung 32"" Curved Monitor",Laptops,Acer,199.99,5
+P88,HP Deskjet 3750 Printer,Desktops,Epson,749.99,4
+P89,Logitech Wireless Mouse,Desktops,Canon,549.99,3.2
+P90,Dell Inspiron 15 5000 Laptop,Desktops,Lenovo,599.99,3.1
+P91,Laser Printer XYZ 2000,Printers,Lenovo,799.99,3.2
+P92,HP LaserJet Pro MFP M428fdw,Printers,Dell,749.99,4.3
+P93,Acer Aspire 5 Desktop,Laptops,Lenovo,150,4.6
+P94,Dell Inspiron 15 5000 Laptop,Printers,Samsung,199,3.8
+P95,Lenovo ThinkPad L15,Laptops,Logitech,150,3.1
+P96,HP Pavilion Home Desktop,Desktops,Lenovo,749.99,3.8
+P97,Logitech Wireless Mouse,Laptops,Lenovo,29.99,5
+P98,Laser Printer XYZ 2000,Printers,Samsung,150,4.1
+P99,Laser Printer XYZ 2000,Laptops,Dell,599.99,4.9
+P100,"Samsung 32"" Curved Monitor",Printers,Acer,599.99,4.7
+P101,"Samsung 32"" Curved Monitor",Desktops,Lenovo,179.99,3
+P102,HP Pavilion Home Desktop,Printers,Samsung,549.99,4.4
+P103,"Samsung 32"" Curved Monitor",Laptops,Logitech,179.99,4.4
+P104,HP Pavilion Home Desktop,Desktops,HP,799.99,4.1
+P105,HP Deskjet 3750 Printer,Printers,Canon,549.99,3.5
+P106,HP Deskjet 3750 Printer,Desktops,Epson,599.99,4.3
+P107,Dell Inspiron 15 5000 Laptop,Printers,Lenovo,799.99,3.2
+P108,"Samsung 32"" Curved Monitor",Laptops,Acer,899.99,3.9
+P109,HP LaserJet Pro MFP M428fdw,Printers,Epson,99.99,3.9
+P110,"Samsung 32"" Curved Monitor",Laptops,HP,599.99,4.9
+P111,"Samsung 32"" Curved Monitor",Printers,Lenovo,29.99,4.8
+P112,Canon PIXMA TS3320,Laptops,Lenovo,199,3.5
+P113,Canon PIXMA TS3320,Accessories,Samsung,549.99,4
+P114,HP Deskjet 3750 Printer,Laptops,Acer,899.99,3.4
+P115,HP LaserJet Pro MFP M428fdw,Accessories,Dell,599.99,4.8
+P116,"Samsung 32"" Curved Monitor",Accessories,HP,549.99,4.7
+P117,HP Pavilion 14 Laptop,Laptops,HP,799.99,3.6
+P118,Acer Aspire 5 Desktop,Printers,Dell,599.99,4.3
+P119,HP Deskjet 3750 Printer,Printers,Epson,799.99,4.2
+P120,Epson EcoTank ET-2720 Printer,Desktops,Epson,799.99,3.3
+P121,"Samsung 32"" Curved Monitor",Accessories,HP,799.99,4.5
+P122,Epson EcoTank ET-2720 Printer,Laptops,Samsung,199,4.1
+P123,HP LaserJet Pro MFP M428fdw,Desktops,Logitech,599.99,4.6
+P124,"Samsung 32"" Curved Monitor",Accessories,Acer,199,4.1
+P125,Laser Printer XYZ 2000,Desktops,Samsung,799.99,3
+P126,Lenovo ThinkPad L15,Accessories,Samsung,549.99,3.6
+P127,Dell Inspiron 15 5000 Laptop,Accessories,Lenovo,749.99,3
+P128,Epson EcoTank ET-2720 Printer,Printers,Epson,599.99,4.9
+P129,HP LaserJet Pro MFP M428fdw,Printers,HP,899.99,4.8
+P130,"Samsung 32"" Curved Monitor",Printers,Logitech,99.99,4.7
+P131,HP LaserJet Pro MFP M428fdw,Printers,Dell,549.99,3.6
+P132,Dell Inspiron 15 5000 Laptop,Desktops,Lenovo,899.99,3.1
+P133,HP LaserJet Pro MFP M428fdw,Desktops,Samsung,199.99,4.8
+P134,HP Deskjet 3750 Printer,Printers,Canon,199.99,4.9
+P135,"Samsung 32"" Curved Monitor",Desktops,Acer,29.99,3.2
+P136,"Samsung 32"" Curved Monitor",Accessories,Lenovo,179.99,4
+P137,Canon PIXMA TS3320,Printers,Dell,29.99,3.1
+P138,HP LaserJet Pro MFP M428fdw,Desktops,HP,179.99,4.5
+P139,Logitech Wireless Mouse,Desktops,Epson,199,4.5
+P140,Dell Inspiron 15 5000 Laptop,Printers,Epson,150,3.3
+P141,HP LaserJet Pro MFP M428fdw,Accessories,Lenovo,199,4
+P142,Canon PIXMA TS3320,Accessories,Logitech,29.99,4.1
+P143,Laser Printer XYZ 2000,Printers,Epson,899.99,3.5
+P144,Canon PIXMA TS3320,Printers,Lenovo,899.99,4.7
+P145,Dell Inspiron 15 5000 Laptop,Laptops,Epson,549.99,3.8
+P146,"Samsung 32"" Curved Monitor",Desktops,Samsung,199.99,3.4
+P147,Epson EcoTank ET-2720 Printer,Accessories,Logitech,179.99,4.1
+P148,Dell Inspiron 15 5000 Laptop,Laptops,Acer,199.99,4.5
+P149,Acer Aspire 5 Desktop,Desktops,Dell,179.99,3.4
+P150,HP Pavilion 14 Laptop,Printers,Epson,199,3.6
+P151,Epson EcoTank ET-2720 Printer,Desktops,Epson,799.99,5
+P152,HP Pavilion Home Desktop,Desktops,Samsung,179.99,4.3
+P153,Epson EcoTank ET-2720 Printer,Printers,Dell,179.99,3.9
+P154,HP Deskjet 3750 Printer,Accessories,Acer,899.99,4
+P155,Epson EcoTank ET-2720 Printer,Accessories,Samsung,749.99,3.2
+P156,Canon PIXMA TS3320,Desktops,Lenovo,899.99,3.4
+P157,Epson EcoTank ET-2720 Printer,Printers,Acer,99.99,3.7
+P158,Dell Inspiron 15 5000 Laptop,Accessories,Dell,29.99,4.2
+P159,HP Deskjet 3750 Printer,Accessories,Canon,29.99,3.5
+P160,Logitech Wireless Mouse,Laptops,Epson,799.99,3.4
+P161,Lenovo ThinkPad L15,Laptops,Logitech,799.99,3.1
+P162,Dell Inspiron 15 5000 Laptop,Laptops,Lenovo,599.99,4.3
+P163,Acer Aspire 5 Desktop,Desktops,Logitech,199,3.5
+P164,HP Pavilion Home Desktop,Laptops,Canon,179.99,4.8
+P165,HP Pavilion 14 Laptop,Accessories,Acer,199.99,4.7
+P166,HP Pavilion Home Desktop,Accessories,Samsung,150,3.1
+P167,Dell Inspiron 15 5000 Laptop,Printers,Dell,99.99,3.5
+P168,Lenovo ThinkPad L15,Accessories,Lenovo,199,4.3
+P169,Laser Printer XYZ 2000,Desktops,HP,599.99,3.4
+P170,Epson EcoTank ET-2720 Printer,Accessories,Samsung,179.99,3.3
+P171,HP Pavilion Home Desktop,Desktops,Acer,150,4.9
+P172,Lenovo ThinkPad L15,Laptops,Canon,99.99,4.1
+P173,Lenovo ThinkPad L15,Desktops,Canon,199,3.9
+P174,Lenovo ThinkPad L15,Accessories,Acer,179.99,4.6
+P175,HP Pavilion 14 Laptop,Laptops,Acer,549.99,4.6
+P176,Laser Printer XYZ 2000,Accessories,HP,749.99,3.4
+P177,Acer Aspire 5 Desktop,Desktops,Samsung,199.99,3.2
+P178,Dell Inspiron 15 5000 Laptop,Laptops,Samsung,179.99,3.9
+P179,Dell Inspiron 15 5000 Laptop,Laptops,Dell,549.99,3.8
+P180,"Samsung 32"" Curved Monitor",Desktops,HP,29.99,3.9
+P181,Lenovo ThinkPad L15,Laptops,Logitech,199.99,4.5
+P182,Dell Inspiron 15 5000 Laptop,Accessories,Dell,199,4.3
+P183,Dell Inspiron 15 5000 Laptop,Accessories,Lenovo,199.99,5
+P184,HP Pavilion 14 Laptop,Printers,Acer,749.99,3.2
+P185,HP Pavilion 14 Laptop,Accessories,Epson,799.99,3.8
+P186,Dell Inspiron 15 5000 Laptop,Printers,Logitech,899.99,3.7
+P187,HP Deskjet 3750 Printer,Laptops,Samsung,179.99,4.7
+P188,Logitech Wireless Mouse,Desktops,Canon,749.99,3.5
+P189,Epson EcoTank ET-2720 Printer,Laptops,Acer,899.99,3.4
+P190,Lenovo ThinkPad L15,Printers,Dell,199.99,3.9
+P191,"Samsung 32"" Curved Monitor",Accessories,Samsung,749.99,3.8
+P192,Acer Aspire 5 Desktop,Printers,Acer,199.99,3.6
+P193,Dell Inspiron 15 5000 Laptop,Printers,Samsung,29.99,3.5
+P194,HP Pavilion Home Desktop,Accessories,Logitech,749.99,4.8
+P195,Laser Printer XYZ 2000,Laptops,Epson,179.99,3.9
+P196,Dell Inspiron 15 5000 Laptop,Accessories,Logitech,99.99,4.7
+P197,Logitech Wireless Mouse,Desktops,Dell,749.99,4.1
+P198,HP Pavilion Home Desktop,Laptops,Samsung,749.99,3.1
+P199,Acer Aspire 5 Desktop,Printers,Acer,179.99,5
+P200,Logitech Wireless Mouse,Accessories,Logitech,199,4.7

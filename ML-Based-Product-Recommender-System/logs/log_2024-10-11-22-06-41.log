@@ -1,0 +1,37 @@
+[2024-10-11 22:06:42,548] root - INFO - Model Recommendation Config: ModelRecommendationConfig(product_name_serialized_objects='artifacts\\serialized_objects\\product_names.pkl', product_pivot_serialized_objects='artifacts\\serialized_objects\\product_pivot.pkl', final_rating_serialized_objects='artifacts\\serialized_objects\\final_rating.pkl', trained_model_path='artifacts\\trained_model\\model.pkl')
+[2024-10-11 22:06:43,157] root - INFO - Model Recommendation Config: ModelRecommendationConfig(product_name_serialized_objects='artifacts\\serialized_objects\\product_names.pkl', product_pivot_serialized_objects='artifacts\\serialized_objects\\product_pivot.pkl', final_rating_serialized_objects='artifacts\\serialized_objects\\final_rating.pkl', trained_model_path='artifacts\\trained_model\\model.pkl')
+[2024-10-11 22:06:43,158] root - INFO - ====================Data Ingestion log started.==================== 
+[2024-10-11 22:06:43,158] root - INFO - Data Ingestion Config: DatasetConfig(dataset_download_url='https://github.com/entbappy/Branching-tutorial/raw/master/books_data.zip', raw_data_dir='artifacts\\dataset\\raw_data', ingested_dir='artifacts\\dataset\\ingested_data')
+[2024-10-11 22:06:43,158] root - INFO - Data Validation Config: DataValidationConfig(clean_data_dir='artifacts\\dataset\\clean_data', products_csv_file='artifacts\\dataset\\ingested_data\\product_details.csv', ratings_csv_file='artifacts\\dataset\\ingested_data\\user_product_ratings.csv', serialized_objects_dir='artifacts\\serialized_objects')
+[2024-10-11 22:06:43,158] root - INFO - Data Transformation Config: DataTransformationConfig(clean_data_file_path='artifacts\\dataset\\clean_data\\clean_data.csv', transformed_data_dir='artifacts\\dataset\\transformed_data')
+[2024-10-11 22:06:43,158] root - INFO - Data Validation Config: DataValidationConfig(clean_data_dir='artifacts\\dataset\\clean_data', products_csv_file='artifacts\\dataset\\ingested_data\\product_details.csv', ratings_csv_file='artifacts\\dataset\\ingested_data\\user_product_ratings.csv', serialized_objects_dir='artifacts\\serialized_objects')
+[2024-10-11 22:06:43,158] root - INFO - Model Trainer Config: ModelTrainerConfig(transformed_data_file_dir='artifacts\\dataset\\transformed_data\\transformed_data.pkl', trained_model_dir='artifacts\\trained_model', trained_model_name='model.pkl')
+[2024-10-11 22:06:43,158] root - INFO - Directly using the data from the raw data folder artifacts\dataset\raw_data\products_data.zip
+[2024-10-11 22:06:43,165] root - INFO - Extracting zip file: artifacts\dataset\raw_data\products_data.zip into dir: artifacts\dataset\ingested_data
+[2024-10-11 22:06:43,165] root - INFO - ====================Data Ingestion log completed.==================== 
+
+
+[2024-10-11 22:06:43,165] root - INFO - ====================Data Validation log started.==================== 
+[2024-10-11 22:06:43,175] root - INFO -  Shape of user-product-ratings data file: (4000, 4)
+[2024-10-11 22:06:43,175] root - INFO -  Shape of products data file: (200, 6)
+[2024-10-11 22:06:43,189] root - INFO -  Shape of the final clean dataset: (600, 10)
+[2024-10-11 22:06:43,195] root - INFO - Saved cleaned data to artifacts\dataset\clean_data
+[2024-10-11 22:06:43,197] root - INFO - Saved final_rating serialization object to artifacts\serialized_objects
+[2024-10-11 22:06:43,198] root - INFO - ====================Data Validation log completed.==================== 
+
+
+[2024-10-11 22:06:43,198] root - INFO - ====================Data Transformation log started.==================== 
+[2024-10-11 22:06:43,205] root - INFO -  Shape of product pivot table: (12, 50)
+[2024-10-11 22:06:43,207] root - INFO - Saved pivot table data to artifacts\dataset\transformed_data
+[2024-10-11 22:06:43,208] root - INFO - Saved product_names serialization object to artifacts\serialized_objects
+[2024-10-11 22:06:43,210] root - INFO - Saved product_pivot serialization object to artifacts\serialized_objects
+[2024-10-11 22:06:43,210] root - INFO - ====================Data Transformation log completed.==================== 
+
+
+[2024-10-11 22:06:43,210] root - INFO - ====================Model Trainer log started.==================== 
+[2024-10-11 22:06:43,212] root - INFO - Saving final model to artifacts\trained_model\model.pkl
+[2024-10-11 22:06:43,213] root - INFO - ====================Model Trainer log completed.==================== 
+
+
+[2024-10-11 22:06:43,213] root - INFO - Recommended successfully!
+[2024-10-11 22:06:44,777] root - INFO - Model Recommendation Config: ModelRecommendationConfig(product_name_serialized_objects='artifacts\\serialized_objects\\product_names.pkl', product_pivot_serialized_objects='artifacts\\serialized_objects\\product_pivot.pkl', final_rating_serialized_objects='artifacts\\serialized_objects\\final_rating.pkl', trained_model_path='artifacts\\trained_model\\model.pkl')

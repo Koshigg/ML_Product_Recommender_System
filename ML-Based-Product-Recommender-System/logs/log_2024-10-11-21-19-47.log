@@ -1,0 +1,14 @@
+[2024-10-11 21:19:48,623] root - INFO - Model Recommendation Config: ModelRecommendationConfig(book_name_serialized_objects='artifacts\\serialized_objects\\book_names.pkl', book_pivot_serialized_objects='artifacts\\serialized_objects\\book_pivot.pkl', final_rating_serialized_objects='artifacts\\serialized_objects\\final_rating.pkl', trained_model_path='artifacts\\trained_model\\model.pkl')
+[2024-10-11 21:19:49,910] root - INFO - Model Recommendation Config: ModelRecommendationConfig(book_name_serialized_objects='artifacts\\serialized_objects\\book_names.pkl', book_pivot_serialized_objects='artifacts\\serialized_objects\\book_pivot.pkl', final_rating_serialized_objects='artifacts\\serialized_objects\\final_rating.pkl', trained_model_path='artifacts\\trained_model\\model.pkl')
+[2024-10-11 21:19:49,912] root - INFO - ====================Data Ingestion log started.==================== 
+[2024-10-11 21:19:49,912] root - INFO - Data Ingestion Config: DatasetConfig(dataset_download_url='https://github.com/entbappy/Branching-tutorial/raw/master/books_data.zip', raw_data_dir='artifacts\\dataset\\raw_data', ingested_dir='artifacts\\dataset\\ingested_data')
+[2024-10-11 21:19:49,912] root - INFO - Data Validation Config: DataValidationConfig(clean_data_dir='artifacts\\dataset\\clean_data', products_csv_file='artifacts\\dataset\\ingested_data\\products.csv', ratings_csv_file='artifacts\\dataset\\ingested_data\\user_product_ratings.csv', serialized_objects_dir='artifacts\\serialized_objects')
+[2024-10-11 21:19:49,912] root - INFO - Data Transformation Config: DataTransformationConfig(clean_data_file_path='artifacts\\dataset\\clean_data\\clean_data.csv', transformed_data_dir='artifacts\\dataset\\transformed_data')
+[2024-10-11 21:19:49,912] root - INFO - Data Validation Config: DataValidationConfig(clean_data_dir='artifacts\\dataset\\clean_data', products_csv_file='artifacts\\dataset\\ingested_data\\products.csv', ratings_csv_file='artifacts\\dataset\\ingested_data\\user_product_ratings.csv', serialized_objects_dir='artifacts\\serialized_objects')
+[2024-10-11 21:19:49,913] root - INFO - Model Trainer Config: ModelTrainerConfig(transformed_data_file_dir='artifacts\\dataset\\transformed_data\\transformed_data.pkl', trained_model_dir='artifacts\\trained_model', trained_model_name='model.pkl')
+[2024-10-11 21:19:49,913] root - INFO - Directly using the data from the raw data folder artifacts\dataset\raw_data\products_data.zip
+[2024-10-11 21:19:49,919] root - INFO - Extracting zip file: artifacts\dataset\raw_data\products_data.zip into dir: artifacts\dataset\ingested_data
+[2024-10-11 21:19:49,919] root - INFO - ====================Data Ingestion log completed.==================== 
+
+
+[2024-10-11 21:19:49,919] root - INFO - ====================Data Validation log started.==================== 

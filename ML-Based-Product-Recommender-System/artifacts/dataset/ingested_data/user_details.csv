@@ -1,0 +1,51 @@
+user_id,age,gender,location,membership_level
+U1,56,Male,San Francisco,Basic
+U2,69,Other,Chicago,Basic
+U3,63,Male,Chicago,Basic
+U4,25,Male,Los Angeles,Premium
+U5,28,Female,New York,Basic
+U6,48,Other,Houston,Basic
+U7,45,Male,Los Angeles,Basic
+U8,65,Female,Chicago,Basic
+U9,66,Male,Houston,Basic
+U10,33,Other,Houston,VIP
+U11,60,Male,New York,Premium
+U12,66,Other,San Francisco,VIP
+U13,26,Female,Houston,Basic
+U14,38,Female,Houston,Premium
+U15,41,Male,Houston,VIP
+U16,44,Male,San Francisco,Premium
+U17,43,Male,Chicago,Premium
+U18,62,Other,Houston,Premium
+U19,58,Other,Chicago,Basic
+U20,45,Other,New York,Basic
+U21,65,Female,San Francisco,Basic
+U22,24,Male,Houston,Premium
+U23,41,Female,Los Angeles,VIP
+U24,51,Other,Houston,VIP
+U25,51,Other,Chicago,Basic
+U26,21,Male,Chicago,Premium
+U27,52,Other,New York,Premium
+U28,68,Female,San Francisco,Basic
+U29,33,Female,Los Angeles,Premium
+U30,38,Male,New York,Basic
+U31,20,Other,San Francisco,Premium
+U32,54,Male,Chicago,VIP
+U33,69,Female,New York,Basic
+U34,28,Male,San Francisco,Basic
+U35,55,Male,Houston,Basic
+U36,47,Female,San Francisco,VIP
+U37,37,Female,Los Angeles,Premium
+U38,33,Other,San Francisco,VIP
+U39,56,Female,New York,Basic
+U40,47,Female,San Francisco,Basic
+U41,45,Male,San Francisco,VIP
+U42,63,Other,Houston,Basic
+U43,32,Female,Chicago,Basic
+U44,19,Female,Chicago,Basic
+U45,53,Female,Houston,Basic
+U46,44,Male,Houston,Basic
+U47,53,Male,Chicago,VIP
+U48,50,Other,Chicago,Premium
+U49,47,Other,Houston,Premium
+U50,59,Male,Los Angeles,Premium
